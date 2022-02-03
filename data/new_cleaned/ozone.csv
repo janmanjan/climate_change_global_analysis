@@ -1,0 +1,4526 @@
+,Entity,Year,Consumption of Ozone
+1,Afghanistan,1991,0.0
+2,Afghanistan,1995,381.9
+3,Afghanistan,1996,381.9
+4,Afghanistan,1997,381.9
+5,Afghanistan,1998,0.9
+6,Afghanistan,1999,0.9
+7,Afghanistan,2000,0.9
+8,Afghanistan,2004,181.5
+9,Afghanistan,2005,145.4
+10,Afghanistan,2006,99.4
+11,Afghanistan,2007,61.3
+12,Afghanistan,2008,47.9
+13,Afghanistan,2009,49.2
+14,Afghanistan,2010,24.9
+15,Afghanistan,2011,24.04
+16,Afghanistan,2012,17.34
+17,Afghanistan,2013,17.7
+19,Africa,1991,19073.6
+20,Africa,1993,24550.1
+21,Africa,1994,18480.1
+22,Africa,1995,20318.2
+23,Africa,1996,21257.6
+24,Africa,1997,20346.8
+25,Africa,1998,21756.2
+26,Africa,1999,17789.7
+27,Africa,2000,17724.9
+28,Africa,2001,17928.4
+29,Africa,2002,15744.0
+30,Africa,2003,13653.6
+31,Africa,2004,11199.0
+32,Africa,2005,7524.5
+33,Africa,2006,5306.5
+34,Africa,2007,3410.9
+35,Africa,2008,3248.8
+36,Africa,2009,3403.8
+37,Africa,2010,3062.36
+38,Africa,2011,2734.09
+39,Africa,2012,2703.41
+40,Africa,2013,1993.0
+42,Albania,1991,0.0
+43,Albania,1995,43.4
+44,Albania,1996,43.2
+45,Albania,1997,45.2
+46,Albania,1998,49.6
+47,Albania,1999,56.2
+48,Albania,2000,65.1
+49,Albania,2001,70.2
+50,Albania,2002,50.5
+51,Albania,2003,38.0
+52,Albania,2004,36.6
+53,Albania,2005,14.3
+54,Albania,2006,15.2
+55,Albania,2007,6.6
+56,Albania,2008,4.1
+57,Albania,2009,5.4
+58,Albania,2010,6.5
+59,Albania,2011,6.49
+60,Albania,2012,6.59
+61,Albania,2013,5.67
+63,Algeria,1991,0.6
+64,Algeria,1993,2364.8
+65,Algeria,1994,2342.9
+66,Algeria,1995,2519.9
+67,Algeria,1996,2653.5
+68,Algeria,1997,2008.5
+69,Algeria,1998,1783.5
+70,Algeria,1999,1736.5
+71,Algeria,2000,1703.5
+72,Algeria,2001,1225.3
+73,Algeria,2002,1965.3
+74,Algeria,2003,1965.3
+75,Algeria,2004,1141.4
+76,Algeria,2005,955.4
+77,Algeria,2006,428.6
+78,Algeria,2007,318.0
+79,Algeria,2008,272.4
+80,Algeria,2009,174.35
+81,Algeria,2010,65.68
+82,Algeria,2011,69.12
+83,Algeria,2012,58.36
+84,Algeria,2013,51.97
+85,Algeria,2014,53.66
+87,Andorra,1991,0.0
+88,Andorra,2009,1.9
+89,Andorra,2010,0.0
+90,Andorra,2011,0.0
+91,Andorra,2012,0.0
+92,Andorra,2013,0.0
+93,Andorra,2014,0.0
+95,Angola,1991,0.0
+96,Angola,1995,114.8
+97,Angola,1996,114.8
+98,Angola,1997,114.8
+99,Angola,1998,115.9
+100,Angola,2000,107.0
+101,Angola,2001,119.8
+102,Angola,2002,110.0
+103,Angola,2003,109.7
+104,Angola,2004,82.2
+105,Angola,2005,59.2
+106,Angola,2006,42.1
+107,Angola,2007,17.0
+108,Angola,2008,20.2
+109,Angola,2009,35.3
+110,Angola,2010,12.7
+111,Angola,2011,11.55
+112,Angola,2012,6.6
+113,Angola,2013,15.43
+114,Angola,2014,13.21
+116,Antigua and Barbuda,1990,425.5
+117,Antigua and Barbuda,1991,430.2
+118,Antigua and Barbuda,1992,432.9
+119,Antigua and Barbuda,1993,428.5
+120,Antigua and Barbuda,1994,12.9
+121,Antigua and Barbuda,1995,11.9
+122,Antigua and Barbuda,1996,10.7
+123,Antigua and Barbuda,1997,10.3
+124,Antigua and Barbuda,1998,27.7
+125,Antigua and Barbuda,1999,-1.6
+126,Antigua and Barbuda,2000,5.1
+127,Antigua and Barbuda,2001,3.3
+128,Antigua and Barbuda,2002,4.0
+129,Antigua and Barbuda,2003,1.7
+130,Antigua and Barbuda,2004,2.6
+131,Antigua and Barbuda,2005,1.7
+132,Antigua and Barbuda,2006,1.6
+133,Antigua and Barbuda,2007,0.9
+134,Antigua and Barbuda,2008,0.3
+135,Antigua and Barbuda,2009,0.5
+136,Antigua and Barbuda,2010,0.1
+137,Antigua and Barbuda,2011,0.38
+138,Antigua and Barbuda,2012,0.11
+139,Antigua and Barbuda,2013,0.22
+141,Arabian Peninsula,1991,1217.3
+142,Arabian Peninsula,1995,8916.0
+143,Arabian Peninsula,1996,7461.7
+144,Arabian Peninsula,1997,6615.0
+145,Arabian Peninsula,1998,6578.1
+146,Arabian Peninsula,1999,5310.7
+147,Arabian Peninsula,2000,5036.0
+148,Arabian Peninsula,2001,4947.2
+149,Arabian Peninsula,2002,4647.1
+150,Arabian Peninsula,2003,3806.1
+151,Arabian Peninsula,2004,3872.7
+152,Arabian Peninsula,2005,3208.8
+153,Arabian Peninsula,2006,3247.6
+154,Arabian Peninsula,2007,3093.5
+155,Arabian Peninsula,2008,3171.3
+156,Arabian Peninsula,2009,3116.5
+157,Arabian Peninsula,2010,2997.29
+158,Arabian Peninsula,2011,3098.44
+159,Arabian Peninsula,2012,3393.11
+160,Arabian Peninsula,2013,2680.73
+162,Argentina,1990,1514.0
+163,Argentina,1991,9912.3
+164,Argentina,1992,10085.8
+165,Argentina,1993,4380.5
+166,Argentina,1994,7082.1
+167,Argentina,1995,10042.5
+168,Argentina,1996,4949.5
+169,Argentina,1997,4369.0
+170,Argentina,1998,4374.9
+171,Argentina,1999,4957.0
+172,Argentina,2000,3383.0
+173,Argentina,2001,3841.0
+174,Argentina,2002,2386.0
+175,Argentina,2003,2835.5
+176,Argentina,2004,2784.1
+177,Argentina,2005,2208.6
+178,Argentina,2006,2215.5
+179,Argentina,2007,1199.7
+180,Argentina,2008,654.8
+181,Argentina,2009,395.4
+182,Argentina,2010,780.8
+183,Argentina,2011,831.16
+184,Argentina,2012,855.29
+185,Argentina,2013,497.7
+187,Armenia,1991,0.0
+188,Armenia,1995,201.8
+189,Armenia,1996,196.5
+190,Armenia,1997,191.2
+191,Armenia,1998,185.9
+192,Armenia,1999,9.8
+193,Armenia,2000,25.7
+194,Armenia,2001,164.4
+195,Armenia,2002,174.4
+196,Armenia,2003,174.4
+197,Armenia,2004,114.6
+198,Armenia,2005,87.0
+199,Armenia,2006,62.8
+200,Armenia,2007,29.4
+201,Armenia,2008,18.4
+202,Armenia,2009,24.9
+203,Armenia,2010,7.1
+204,Armenia,2011,7.5
+205,Armenia,2012,5.67
+206,Armenia,2013,4.54
+207,Armenia,2014,3.15
+209,Asia + Pacific,1990,211206.9
+210,Asia + Pacific,1991,277404.6
+211,Asia + Pacific,1992,300265.9
+212,Asia + Pacific,1993,271444.2
+213,Asia + Pacific,1994,199695.7
+214,Asia + Pacific,1995,213362.6
+215,Asia + Pacific,1996,153008.6
+216,Asia + Pacific,1997,165216.5
+217,Asia + Pacific,1998,225850.4
+218,Asia + Pacific,1999,168315.2
+219,Asia + Pacific,2000,157349.6
+220,Asia + Pacific,2001,124753.1
+221,Asia + Pacific,2002,105325.6
+222,Asia + Pacific,2003,107628.2
+223,Asia + Pacific,2004,76641.2
+224,Asia + Pacific,2005,54106.8
+225,Asia + Pacific,2006,49882.8
+226,Asia + Pacific,2007,38833.2
+227,Asia + Pacific,2008,29669.8
+228,Asia + Pacific,2009,30417.5
+229,Asia + Pacific,2010,29457.8
+230,Asia + Pacific,2011,28425.45
+231,Asia + Pacific,2012,29124.45
+232,Asia + Pacific,2013,21592.75
+234,Australia,1990,7434.4
+235,Australia,1991,8147.8
+236,Australia,1992,7017.5
+237,Australia,1993,4615.7
+238,Australia,1994,4242.1
+239,Australia,1995,3120.0
+240,Australia,1996,826.9
+241,Australia,1997,602.9
+242,Australia,1998,770.7
+243,Australia,1999,831.9
+244,Australia,2000,484.6
+245,Australia,2001,360.8
+246,Australia,2002,389.7
+247,Australia,2003,278.9
+248,Australia,2004,189.8
+249,Australia,2005,171.0
+250,Australia,2006,69.4
+251,Australia,2007,86.6
+252,Australia,2008,68.4
+253,Australia,2009,57.2
+254,Australia,2010,-6.4
+255,Australia,2011,46.81
+256,Australia,2012,-33.51
+257,Australia,2013,48.62
+258,Australia,2014,10.1
+260,Australia + New Zealand,1990,8629.8
+261,Australia + New Zealand,1991,8984.4
+262,Australia + New Zealand,1992,7739.3
+263,Australia + New Zealand,1993,5474.8
+264,Australia + New Zealand,1994,4701.7
+265,Australia + New Zealand,1995,3442.9
+266,Australia + New Zealand,1996,925.6
+267,Australia + New Zealand,1997,682.8
+268,Australia + New Zealand,1998,820.2
+269,Australia + New Zealand,1999,900.0
+270,Australia + New Zealand,2000,503.8
+271,Australia + New Zealand,2001,393.2
+272,Australia + New Zealand,2002,432.5
+273,Australia + New Zealand,2003,314.2
+274,Australia + New Zealand,2004,222.4
+275,Australia + New Zealand,2005,219.6
+276,Australia + New Zealand,2006,109.6
+277,Australia + New Zealand,2007,119.9
+278,Australia + New Zealand,2008,86.2
+279,Australia + New Zealand,2009,74.7
+280,Australia + New Zealand,2010,5.2
+281,Australia + New Zealand,2011,58.31
+282,Australia + New Zealand,2012,-28.04
+283,Australia + New Zealand,2013,56.82
+284,Australia + New Zealand,2014,10.1
+286,Austria,1990,2004.4
+287,Austria,1991,1896.7
+288,Austria,1992,1710.2
+289,Austria,1993,641.1
+290,Austria,1994,1000.9
+292,Azerbaijan,1991,2.8
+293,Azerbaijan,1996,962.9
+294,Azerbaijan,1997,227.5
+295,Azerbaijan,1998,152.4
+296,Azerbaijan,1999,100.7
+297,Azerbaijan,2000,88.2
+298,Azerbaijan,2001,52.1
+299,Azerbaijan,2002,12.1
+300,Azerbaijan,2003,10.2
+301,Azerbaijan,2004,15.1
+302,Azerbaijan,2005,21.9
+303,Azerbaijan,2006,0.9
+304,Azerbaijan,2007,0.8
+305,Azerbaijan,2008,0.8
+306,Azerbaijan,2009,3.5
+307,Azerbaijan,2010,0.3
+308,Azerbaijan,2011,7.63
+309,Azerbaijan,2012,3.52
+310,Azerbaijan,2013,1.76
+312,Bahamas,1991,0.0
+313,Bahamas,1992,2.4
+314,Bahamas,1993,65.8
+315,Bahamas,1994,68.1
+316,Bahamas,1995,69.9
+317,Bahamas,1996,72.0
+318,Bahamas,1997,54.8
+319,Bahamas,1998,59.4
+320,Bahamas,1999,60.4
+321,Bahamas,2000,70.3
+322,Bahamas,2001,68.9
+323,Bahamas,2002,58.4
+324,Bahamas,2003,35.1
+325,Bahamas,2004,23.8
+326,Bahamas,2005,18.6
+327,Bahamas,2006,8.9
+328,Bahamas,2007,5.8
+329,Bahamas,2008,3.9
+330,Bahamas,2009,3.5
+331,Bahamas,2010,6.1
+332,Bahamas,2011,3.05
+333,Bahamas,2012,2.73
+334,Bahamas,2013,2.72
+336,Bahrain,1990,178.8
+337,Bahrain,1991,161.1
+338,Bahrain,1992,230.8
+339,Bahrain,1993,187.0
+340,Bahrain,1994,200.9
+341,Bahrain,1995,209.5
+342,Bahrain,1996,234.2
+343,Bahrain,1997,258.7
+344,Bahrain,1998,221.1
+345,Bahrain,1999,186.4
+346,Bahrain,2000,178.2
+347,Bahrain,2001,149.3
+348,Bahrain,2002,138.1
+349,Bahrain,2003,125.8
+350,Bahrain,2004,85.3
+351,Bahrain,2005,85.7
+352,Bahrain,2006,61.1
+353,Bahrain,2007,43.4
+354,Bahrain,2008,50.5
+355,Bahrain,2009,55.6
+356,Bahrain,2010,58.7
+357,Bahrain,2011,57.32
+358,Bahrain,2012,75.59
+359,Bahrain,2013,49.6
+361,Bangladesh,1990,202.1
+362,Bangladesh,1991,94.9
+363,Bangladesh,1992,216.3
+364,Bangladesh,1993,229.2
+365,Bangladesh,1994,195.4
+366,Bangladesh,1995,291.3
+367,Bangladesh,1996,633.7
+368,Bangladesh,1997,840.8
+369,Bangladesh,1998,840.6
+370,Bangladesh,1999,814.8
+371,Bangladesh,2000,816.4
+372,Bangladesh,2001,826.9
+373,Bangladesh,2002,350.1
+374,Bangladesh,2003,340.6
+375,Bangladesh,2004,310.1
+376,Bangladesh,2005,277.5
+377,Bangladesh,2006,217.5
+378,Bangladesh,2007,192.7
+379,Bangladesh,2008,223.1
+380,Bangladesh,2009,195.9
+381,Bangladesh,2010,125.5
+382,Bangladesh,2011,136.42
+383,Bangladesh,2012,66.47
+384,Bangladesh,2013,64.89
+386,Barbados,1990,25.5
+387,Barbados,1991,28.9
+388,Barbados,1992,24.5
+389,Barbados,1993,36.2
+390,Barbados,1994,37.0
+391,Barbados,1995,26.4
+392,Barbados,1996,24.2
+393,Barbados,1997,19.1
+394,Barbados,1998,25.2
+395,Barbados,1999,22.5
+396,Barbados,2000,9.8
+397,Barbados,2001,14.2
+398,Barbados,2002,12.1
+399,Barbados,2003,11.5
+400,Barbados,2004,16.7
+401,Barbados,2005,9.3
+402,Barbados,2006,10.5
+403,Barbados,2007,4.8
+404,Barbados,2008,3.6
+405,Barbados,2009,5.1
+406,Barbados,2010,2.3
+407,Barbados,2011,2.65
+408,Barbados,2012,2.66
+409,Barbados,2013,2.3
+410,Barbados,2014,1.23
+412,Belarus,1990,1549.0
+413,Belarus,1991,1445.9
+414,Belarus,1992,1156.6
+415,Belarus,1993,1156.2
+416,Belarus,1994,1005.9
+417,Belarus,1995,595.3
+418,Belarus,1996,599.2
+419,Belarus,1997,419.4
+420,Belarus,1998,278.3
+421,Belarus,1999,208.2
+422,Belarus,2000,16.8
+423,Belarus,2001,9.3
+424,Belarus,2002,2.7
+425,Belarus,2003,4.5
+426,Belarus,2004,3.1
+427,Belarus,2005,0.6
+428,Belarus,2006,1.3
+429,Belarus,2007,0.8
+430,Belarus,2008,0.4
+431,Belarus,2009,10.4
+432,Belarus,2010,10.0
+433,Belarus,2011,9.02
+434,Belarus,2012,8.05
+435,Belarus,2013,6.95
+436,Belarus,2014,5.56
+438,Belize,1991,0.0
+439,Belize,1995,22.9
+440,Belize,1996,25.0
+441,Belize,1997,27.2
+442,Belize,1998,25.7
+443,Belize,1999,51.5
+444,Belize,2000,15.7
+445,Belize,2001,28.8
+446,Belize,2002,21.7
+447,Belize,2003,15.1
+448,Belize,2004,12.2
+449,Belize,2005,9.6
+450,Belize,2006,3.9
+451,Belize,2007,3.2
+452,Belize,2008,1.8
+453,Belize,2009,2.5
+454,Belize,2010,3.1
+455,Belize,2011,1.94
+456,Belize,2012,2.58
+457,Belize,2013,2.43
+458,Belize,2014,2.42
+460,Benin,1990,60.8
+461,Benin,1991,40.3
+462,Benin,1992,47.0
+463,Benin,1993,48.8
+464,Benin,1994,48.8
+465,Benin,1995,73.5
+466,Benin,1996,59.0
+467,Benin,1997,60.3
+468,Benin,1998,54.9
+469,Benin,1999,57.3
+470,Benin,2000,55.2
+471,Benin,2001,54.5
+472,Benin,2002,36.0
+473,Benin,2003,17.8
+474,Benin,2004,11.8
+475,Benin,2005,10.3
+476,Benin,2006,32.6
+477,Benin,2007,27.9
+478,Benin,2008,26.9
+479,Benin,2009,27.1
+480,Benin,2010,24.0
+481,Benin,2011,23.75
+482,Benin,2012,23.3
+483,Benin,2013,22.15
+485,Bhutan,1991,0.0
+486,Bhutan,1995,0.1
+487,Bhutan,1996,0.2
+488,Bhutan,1997,1.0
+489,Bhutan,1998,0.0
+490,Bhutan,1999,0.0
+491,Bhutan,2000,0.0
+492,Bhutan,2004,0.1
+493,Bhutan,2005,0.1
+494,Bhutan,2006,0.1
+495,Bhutan,2007,0.1
+496,Bhutan,2008,0.1
+497,Bhutan,2009,0.3
+498,Bhutan,2010,0.3
+499,Bhutan,2011,0.28
+500,Bhutan,2012,0.31
+501,Bhutan,2013,0.28
+502,Bhutan,2014,0.25
+504,Bolivia,1991,15.9
+505,Bolivia,1994,76.7
+506,Bolivia,1995,82.3
+507,Bolivia,1996,92.5
+508,Bolivia,1997,60.7
+509,Bolivia,1998,77.1
+510,Bolivia,1999,74.2
+511,Bolivia,2000,80.7
+512,Bolivia,2001,80.2
+513,Bolivia,2002,67.4
+514,Bolivia,2003,35.2
+515,Bolivia,2004,45.8
+516,Bolivia,2005,29.6
+517,Bolivia,2006,36.4
+518,Bolivia,2007,6.6
+519,Bolivia,2008,8.6
+520,Bolivia,2009,4.4
+521,Bolivia,2010,7.7
+522,Bolivia,2011,7.5
+523,Bolivia,2012,6.79
+524,Bolivia,2013,0.37
+526,Bosnia and Herzegovina,1990,14.0
+527,Bosnia and Herzegovina,1991,159.3
+528,Bosnia and Herzegovina,1992,22.5
+529,Bosnia and Herzegovina,1993,18.0
+530,Bosnia and Herzegovina,1994,9.9
+531,Bosnia and Herzegovina,1995,9.5
+532,Bosnia and Herzegovina,1996,29.0
+533,Bosnia and Herzegovina,1997,65.3
+534,Bosnia and Herzegovina,1998,50.3
+535,Bosnia and Herzegovina,1999,159.4
+536,Bosnia and Herzegovina,2000,185.0
+537,Bosnia and Herzegovina,2001,214.3
+538,Bosnia and Herzegovina,2002,259.2
+539,Bosnia and Herzegovina,2003,247.6
+540,Bosnia and Herzegovina,2004,202.1
+541,Bosnia and Herzegovina,2005,61.7
+542,Bosnia and Herzegovina,2006,36.6
+543,Bosnia and Herzegovina,2007,27.6
+544,Bosnia and Herzegovina,2008,16.4
+545,Bosnia and Herzegovina,2009,5.8
+546,Bosnia and Herzegovina,2010,3.5
+547,Bosnia and Herzegovina,2011,3.35
+548,Bosnia and Herzegovina,2012,4.06
+549,Bosnia and Herzegovina,2013,5.13
+550,Bosnia and Herzegovina,2014,3.37
+552,Botswana,1991,0.0
+553,Botswana,1992,21.6
+554,Botswana,1993,36.8
+555,Botswana,1994,10.8
+556,Botswana,1995,15.3
+557,Botswana,1996,6.7
+558,Botswana,1997,17.3
+559,Botswana,1998,2.6
+560,Botswana,1999,2.6
+561,Botswana,2000,6.6
+562,Botswana,2001,10.7
+563,Botswana,2002,10.2
+564,Botswana,2003,8.2
+565,Botswana,2004,5.6
+566,Botswana,2005,5.3
+567,Botswana,2006,7.9
+568,Botswana,2007,11.1
+569,Botswana,2008,13.6
+570,Botswana,2009,11.0
+571,Botswana,2010,11.0
+572,Botswana,2011,10.89
+573,Botswana,2012,10.84
+574,Botswana,2013,10.84
+576,Brazil,1990,39337.3
+577,Brazil,1991,9246.0
+578,Brazil,1992,26560.4
+579,Brazil,1993,32578.2
+580,Brazil,1994,11572.3
+581,Brazil,1995,13213.5
+582,Brazil,1996,11518.5
+583,Brazil,1997,4568.6
+584,Brazil,1998,10419.7
+585,Brazil,1999,13125.9
+586,Brazil,2000,11375.7
+587,Brazil,2001,7412.2
+588,Brazil,2002,3589.4
+589,Brazil,2003,4485.4
+590,Brazil,2004,3150.4
+591,Brazil,2005,2076.9
+592,Brazil,2006,1335.5
+593,Brazil,2007,1508.6
+594,Brazil,2008,1305.4
+595,Brazil,2009,1462.4
+596,Brazil,2010,1207.2
+597,Brazil,2011,1046.4
+598,Brazil,2012,1387.87
+599,Brazil,2013,1189.25
+600,Brazil,2014,1164.74
+602,Brunei,1991,0.0
+603,Brunei,1992,60.9
+604,Brunei,1993,83.3
+605,Brunei,1994,65.7
+606,Brunei,1995,67.3
+607,Brunei,1996,81.8
+608,Brunei,1997,92.5
+609,Brunei,1998,65.0
+610,Brunei,1999,37.7
+611,Brunei,2000,47.8
+612,Brunei,2001,33.1
+613,Brunei,2002,46.3
+614,Brunei,2003,33.7
+615,Brunei,2004,63.3
+616,Brunei,2005,41.6
+617,Brunei,2006,28.6
+618,Brunei,2007,10.4
+619,Brunei,2008,7.6
+620,Brunei,2009,5.8
+621,Brunei,2010,6.9
+622,Brunei,2011,8.08
+623,Brunei,2012,5.9
+624,Brunei,2013,4.27
+625,Brunei,2014,4.0
+627,Bulgaria,1990,2353.6
+628,Bulgaria,1991,1957.1
+629,Bulgaria,1992,1617.6
+630,Bulgaria,1993,735.6
+631,Bulgaria,1994,739.7
+632,Bulgaria,1995,372.1
+633,Bulgaria,1996,17.7
+634,Bulgaria,1997,1.6
+635,Bulgaria,1998,39.0
+636,Bulgaria,1999,41.8
+637,Bulgaria,2000,19.7
+638,Bulgaria,2001,22.7
+639,Bulgaria,2002,23.8
+640,Bulgaria,2003,13.1
+641,Bulgaria,2004,16.5
+642,Bulgaria,2005,15.6
+643,Bulgaria,2006,10.6
+645,Burkina Faso,1990,31.3
+646,Burkina Faso,1991,32.8
+647,Burkina Faso,1992,40.0
+648,Burkina Faso,1993,41.7
+649,Burkina Faso,1994,37.5
+650,Burkina Faso,1995,45.3
+651,Burkina Faso,1996,41.8
+652,Burkina Faso,1997,37.6
+653,Burkina Faso,1998,37.0
+654,Burkina Faso,1999,30.6
+655,Burkina Faso,2000,34.9
+656,Burkina Faso,2001,29.9
+657,Burkina Faso,2002,27.9
+658,Burkina Faso,2003,25.0
+659,Burkina Faso,2004,24.6
+660,Burkina Faso,2005,22.4
+661,Burkina Faso,2006,21.6
+662,Burkina Faso,2007,23.0
+663,Burkina Faso,2008,23.3
+664,Burkina Faso,2009,26.7
+665,Burkina Faso,2010,31.0
+666,Burkina Faso,2011,27.93
+667,Burkina Faso,2012,26.59
+668,Burkina Faso,2013,14.88
+669,Burkina Faso,2014,12.38
+671,Burundi,1990,43.0
+672,Burundi,1991,45.6
+673,Burundi,1992,48.2
+674,Burundi,1995,56.2
+675,Burundi,1996,58.8
+676,Burundi,1997,62.0
+677,Burundi,1998,64.5
+678,Burundi,1999,59.7
+679,Burundi,2000,53.9
+680,Burundi,2001,46.6
+681,Burundi,2002,19.2
+682,Burundi,2003,9.2
+683,Burundi,2004,4.9
+684,Burundi,2005,8.5
+685,Burundi,2006,8.9
+686,Burundi,2007,8.9
+687,Burundi,2008,7.3
+688,Burundi,2009,7.3
+689,Burundi,2010,7.4
+690,Burundi,2011,6.99
+691,Burundi,2012,6.99
+692,Burundi,2013,7.11
+693,Burundi,2014,6.82
+695,Cambodia,1991,0.0
+696,Cambodia,1995,97.0
+697,Cambodia,1996,97.0
+698,Cambodia,1997,97.0
+699,Cambodia,1998,97.0
+700,Cambodia,1999,97.0
+701,Cambodia,2000,97.0
+702,Cambodia,2001,97.0
+703,Cambodia,2002,97.0
+704,Cambodia,2003,89.9
+705,Cambodia,2004,74.6
+706,Cambodia,2005,50.8
+707,Cambodia,2006,34.6
+708,Cambodia,2007,19.9
+709,Cambodia,2008,9.3
+710,Cambodia,2009,17.1
+711,Cambodia,2010,12.8
+712,Cambodia,2011,13.71
+713,Cambodia,2012,10.12
+714,Cambodia,2013,9.47
+715,Cambodia,2014,11.19
+717,Cameroon,1990,125.1
+718,Cameroon,1991,118.6
+719,Cameroon,1992,103.1
+720,Cameroon,1993,213.7
+721,Cameroon,1994,213.7
+722,Cameroon,1995,282.6
+723,Cameroon,1996,333.5
+724,Cameroon,1997,285.3
+725,Cameroon,1998,337.6
+726,Cameroon,1999,403.7
+727,Cameroon,2000,408.9
+728,Cameroon,2001,403.8
+729,Cameroon,2002,261.7
+730,Cameroon,2003,233.6
+731,Cameroon,2004,160.0
+732,Cameroon,2005,141.0
+733,Cameroon,2006,128.7
+734,Cameroon,2007,42.7
+735,Cameroon,2008,36.1
+736,Cameroon,2009,102.7
+737,Cameroon,2010,67.4
+738,Cameroon,2011,65.78
+739,Cameroon,2012,62.78
+740,Cameroon,2013,82.34
+742,Canada,1990,9917.9
+743,Canada,1991,9285.4
+744,Canada,1992,8642.0
+745,Canada,1993,4533.2
+746,Canada,1994,4050.2
+747,Canada,1995,4808.6
+748,Canada,1996,952.1
+749,Canada,1997,1012.5
+750,Canada,1998,935.5
+751,Canada,1999,873.6
+752,Canada,2000,953.1
+753,Canada,2001,924.8
+754,Canada,2002,923.1
+755,Canada,2003,832.6
+756,Canada,2004,602.8
+757,Canada,2005,594.1
+758,Canada,2006,576.4
+759,Canada,2007,559.4
+760,Canada,2008,509.9
+761,Canada,2009,274.4
+762,Canada,2010,65.2
+763,Canada,2011,57.93
+764,Canada,2012,61.83
+765,Canada,2013,65.91
+766,Canada,2014,54.25
+768,Cape Verde,1990,2.2
+769,Cape Verde,1991,2.1
+770,Cape Verde,1992,2.2
+771,Cape Verde,1993,2.3
+772,Cape Verde,1994,2.3
+773,Cape Verde,1995,2.4
+774,Cape Verde,1996,2.3
+775,Cape Verde,1997,2.2
+776,Cape Verde,1998,2.1
+777,Cape Verde,1999,2.0
+778,Cape Verde,2000,1.9
+779,Cape Verde,2001,1.9
+780,Cape Verde,2002,1.8
+781,Cape Verde,2003,1.8
+782,Cape Verde,2004,1.5
+783,Cape Verde,2005,0.9
+784,Cape Verde,2006,0.2
+785,Cape Verde,2007,0.2
+786,Cape Verde,2008,0.2
+787,Cape Verde,2009,1.8
+788,Cape Verde,2010,0.3
+789,Cape Verde,2011,0.28
+790,Cape Verde,2012,0.23
+791,Cape Verde,2013,0.17
+792,Cape Verde,2014,0.17
+794,Caribbean,1991,1433.8
+795,Caribbean,1995,2003.6
+796,Caribbean,1996,1995.0
+797,Caribbean,1997,1882.6
+798,Caribbean,1998,1688.3
+799,Caribbean,1999,1952.7
+800,Caribbean,2000,1669.3
+801,Caribbean,2001,1627.5
+802,Caribbean,2002,1356.0
+803,Caribbean,2003,1110.9
+804,Caribbean,2004,1117.7
+805,Caribbean,2005,683.9
+806,Caribbean,2006,654.7
+807,Caribbean,2007,248.5
+808,Caribbean,2008,219.5
+809,Caribbean,2009,162.82
+810,Caribbean,2010,161.32
+811,Caribbean,2011,117.47
+812,Caribbean,2012,164.7
+813,Caribbean,2013,98.78
+815,Central Africa,1991,346.7
+816,Central Africa,1995,1647.7
+817,Central Africa,1996,1432.9
+818,Central Africa,1997,1000.2
+819,Central Africa,1998,1385.7
+820,Central Africa,1999,920.5
+821,Central Africa,2000,1003.3
+822,Central Africa,2001,1663.5
+823,Central Africa,2002,1425.3
+824,Central Africa,2003,913.0
+825,Central Africa,2004,578.7
+826,Central Africa,2005,499.0
+827,Central Africa,2006,395.6
+828,Central Africa,2007,164.9
+829,Central Africa,2008,138.7
+830,Central Africa,2009,251.22
+831,Central Africa,2010,210.1
+832,Central Africa,2011,214.05
+833,Central Africa,2012,184.6
+834,Central Africa,2013,176.65
+836,Central African Republic,1991,42.8
+837,Central African Republic,1992,44.5
+838,Central African Republic,1993,32.2
+839,Central African Republic,1994,32.2
+840,Central African Republic,1995,28.2
+841,Central African Republic,1996,6.5
+842,Central African Republic,1997,0.0
+843,Central African Republic,1998,7.3
+844,Central African Republic,1999,1.5
+845,Central African Republic,2000,4.5
+846,Central African Republic,2001,4.2
+847,Central African Republic,2002,4.6
+848,Central African Republic,2003,4.3
+849,Central African Republic,2004,4.1
+850,Central African Republic,2005,2.9
+851,Central African Republic,2006,2.3
+852,Central African Republic,2007,1.6
+853,Central African Republic,2008,6.7
+854,Central African Republic,2009,11.9
+855,Central African Republic,2010,12.1
+856,Central African Republic,2011,12.02
+857,Central African Republic,2012,11.83
+859,Central Asia,1991,2615.0
+860,Central Asia,1993,4125.1
+861,Central Asia,1996,2166.2
+862,Central Asia,1997,1761.8
+863,Central Asia,1998,2262.2
+864,Central Asia,1999,1022.8
+865,Central Asia,2000,748.1
+866,Central Asia,2001,522.8
+867,Central Asia,2002,221.4
+868,Central Asia,2003,183.1
+869,Central Asia,2004,146.1
+870,Central Asia,2005,90.7
+871,Central Asia,2006,118.5
+872,Central Asia,2007,138.9
+873,Central Asia,2008,157.5
+874,Central Asia,2009,155.4
+875,Central Asia,2010,127.6
+876,Central Asia,2011,112.58
+877,Central Asia,2012,37.47
+878,Central Asia,2013,117.33
+880,Central Europe,1991,20829.9
+881,Central Europe,1992,18247.9
+882,Central Europe,1993,17554.5
+883,Central Europe,1994,18364.0
+884,Central Europe,1995,12075.4
+885,Central Europe,1996,9574.7
+886,Central Europe,1997,8170.5
+887,Central Europe,1998,9457.6
+888,Central Europe,1999,4115.2
+889,Central Europe,2000,3474.3
+890,Central Europe,2001,2869.4
+891,Central Europe,2002,3355.5
+892,Central Europe,2003,3058.0
+894,Chad,1990,26.1
+895,Chad,1991,28.5
+896,Chad,1992,30.1
+897,Chad,1993,31.5
+898,Chad,1994,31.9
+899,Chad,1995,33.2
+900,Chad,1996,35.0
+901,Chad,1997,36.3
+902,Chad,1998,38.1
+903,Chad,1999,37.6
+904,Chad,2000,36.6
+905,Chad,2001,31.8
+906,Chad,2002,27.3
+907,Chad,2003,22.9
+908,Chad,2004,14.4
+909,Chad,2005,11.6
+910,Chad,2006,9.2
+911,Chad,2007,5.2
+912,Chad,2008,21.5
+913,Chad,2009,26.9
+914,Chad,2010,6.2
+915,Chad,2011,17.0
+916,Chad,2012,16.5
+917,Chad,2013,15.2
+919,Chile,1990,1015.5
+920,Chile,1991,1049.8
+921,Chile,1992,922.9
+922,Chile,1993,1263.8
+923,Chile,1994,1112.3
+924,Chile,1995,1164.4
+925,Chile,1996,1168.4
+926,Chile,1997,856.8
+927,Chile,1998,1089.4
+928,Chile,1999,815.8
+929,Chile,2000,880.9
+930,Chile,2001,769.1
+931,Chile,2002,591.9
+932,Chile,2003,744.5
+933,Chile,2004,572.5
+934,Chile,2005,469.2
+935,Chile,2006,435.1
+936,Chile,2007,270.2
+937,Chile,2008,304.0
+938,Chile,2009,262.1
+939,Chile,2010,261.7
+940,Chile,2011,275.31
+941,Chile,2012,272.38
+942,Chile,2013,241.89
+944,China,1990,59674.0
+945,China,1991,70285.1
+946,China,1992,102771.7
+947,China,1993,113707.8
+948,China,1994,92418.6
+949,China,1995,110333.1
+950,China,1996,82263.5
+951,China,1997,90461.1
+952,China,1998,166967.8
+953,China,1999,100317.6
+954,China,2000,90850.7
+955,China,2001,66796.5
+956,China,2002,47777.2
+957,China,2003,56941.4
+958,China,2004,35465.8
+959,China,2005,31140.5
+960,China,2006,30008.1
+961,China,2007,25185.9
+962,China,2008,17386.3
+963,China,2009,20371.2
+964,China,2010,21388.2
+965,China,2011,21299.43
+966,China,2012,21521.55
+967,China,2013,15690.57
+969,Colombia,1990,2152.7
+970,Colombia,1991,1877.4
+971,Colombia,1992,66.0
+972,Colombia,1994,2224.1
+973,Colombia,1995,2685.7
+974,Colombia,1996,2837.2
+975,Colombia,1997,2223.0
+976,Colombia,1998,1262.8
+977,Colombia,1999,1021.9
+978,Colombia,2000,1155.8
+979,Colombia,2001,1275.9
+980,Colombia,2002,1002.2
+981,Colombia,2003,1168.7
+982,Colombia,2004,1023.9
+983,Colombia,2005,709.3
+984,Colombia,2006,821.6
+985,Colombia,2007,469.9
+986,Colombia,2008,414.8
+987,Colombia,2009,320.9
+988,Colombia,2010,241.5
+989,Colombia,2011,217.4
+990,Colombia,2012,285.5
+991,Colombia,2013,176.65
+992,Colombia,2014,153.23
+994,Comoros,1991,1.3
+995,Comoros,1995,2.3
+996,Comoros,1996,2.3
+997,Comoros,1997,2.9
+998,Comoros,1998,3.6
+999,Comoros,1999,2.6
+1000,Comoros,2000,2.8
+1001,Comoros,2001,2.0
+1002,Comoros,2002,1.9
+1003,Comoros,2003,1.3
+1004,Comoros,2004,1.2
+1005,Comoros,2005,1.0
+1006,Comoros,2006,0.9
+1007,Comoros,2007,0.4
+1008,Comoros,2008,0.1
+1009,Comoros,2009,0.1
+1010,Comoros,2010,0.1
+1011,Comoros,2011,0.12
+1012,Comoros,2012,0.11
+1013,Comoros,2013,0.12
+1014,Comoros,2014,0.14
+1016,Congo,1991,82.4
+1017,Congo,1994,27.7
+1018,Congo,1995,21.1
+1019,Congo,1996,18.9
+1020,Congo,1997,16.3
+1021,Congo,1998,15.1
+1022,Congo,1999,16.0
+1023,Congo,2000,29.1
+1024,Congo,2001,15.8
+1025,Congo,2002,11.2
+1026,Congo,2003,13.1
+1027,Congo,2004,11.2
+1028,Congo,2005,10.7
+1029,Congo,2006,10.9
+1030,Congo,2007,9.7
+1031,Congo,2008,10.3
+1032,Congo,2009,9.88
+1033,Congo,2010,10.6
+1034,Congo,2011,10.56
+1035,Congo,2012,9.87
+1036,Congo,2013,9.35
+1037,Congo,2014,8.72
+1039,Cook Islands,1991,0.1
+1040,Cook Islands,1995,2.5
+1041,Cook Islands,1996,1.7
+1042,Cook Islands,1997,1.2
+1043,Cook Islands,1998,0.5
+1044,Cook Islands,1999,0.0
+1045,Cook Islands,2000,0.0
+1046,Cook Islands,2003,0.0
+1047,Cook Islands,2004,0.0
+1048,Cook Islands,2005,0.0
+1049,Cook Islands,2006,0.0
+1050,Cook Islands,2007,0.0
+1051,Cook Islands,2008,0.0
+1052,Cook Islands,2009,0.0
+1053,Cook Islands,2010,0.1
+1054,Cook Islands,2011,0.06
+1055,Cook Islands,2012,0.04
+1056,Cook Islands,2013,0.02
+1057,Cook Islands,2014,0.0
+1059,Costa Rica,1991,549.3
+1060,Costa Rica,1992,489.6
+1061,Costa Rica,1993,221.5
+1062,Costa Rica,1994,488.3
+1063,Costa Rica,1995,410.7
+1064,Costa Rica,1996,780.1
+1065,Costa Rica,1997,504.1
+1066,Costa Rica,1998,238.6
+1067,Costa Rica,1999,610.4
+1068,Costa Rica,2000,504.5
+1069,Costa Rica,2001,542.2
+1070,Costa Rica,2002,425.4
+1071,Costa Rica,2003,492.2
+1072,Costa Rica,2004,409.1
+1073,Costa Rica,2005,364.4
+1074,Costa Rica,2006,317.2
+1075,Costa Rica,2007,281.8
+1076,Costa Rica,2008,237.0
+1077,Costa Rica,2009,211.5
+1078,Costa Rica,2010,180.9
+1079,Costa Rica,2011,127.85
+1080,Costa Rica,2012,106.3
+1081,Costa Rica,2013,12.6
+1083,Cote d'Ivoire,1991,276.5
+1084,Cote d'Ivoire,1993,223.3
+1085,Cote d'Ivoire,1994,355.2
+1086,Cote d'Ivoire,1995,371.5
+1087,Cote d'Ivoire,1996,394.5
+1088,Cote d'Ivoire,1997,157.7
+1089,Cote d'Ivoire,1998,288.2
+1090,Cote d'Ivoire,1999,174.0
+1091,Cote d'Ivoire,2000,225.4
+1092,Cote d'Ivoire,2001,173.4
+1093,Cote d'Ivoire,2002,121.2
+1094,Cote d'Ivoire,2003,104.6
+1095,Cote d'Ivoire,2004,122.3
+1096,Cote d'Ivoire,2005,116.2
+1097,Cote d'Ivoire,2006,135.0
+1098,Cote d'Ivoire,2007,103.3
+1099,Cote d'Ivoire,2008,77.3
+1100,Cote d'Ivoire,2009,73.7
+1101,Cote d'Ivoire,2010,65.9
+1102,Cote d'Ivoire,2011,59.32
+1103,Cote d'Ivoire,2012,56.65
+1104,Cote d'Ivoire,2013,54.2
+1106,Croatia,1990,928.4
+1107,Croatia,1991,790.8
+1108,Croatia,1992,882.9
+1109,Croatia,1993,848.5
+1110,Croatia,1994,590.6
+1111,Croatia,1995,438.3
+1112,Croatia,1996,248.0
+1113,Croatia,1997,314.3
+1114,Croatia,1998,120.1
+1115,Croatia,1999,169.9
+1116,Croatia,2000,188.3
+1117,Croatia,2001,142.5
+1118,Croatia,2002,172.3
+1119,Croatia,2003,98.0
+1120,Croatia,2004,87.3
+1121,Croatia,2005,54.2
+1122,Croatia,2006,-32.9
+1123,Croatia,2007,2.2
+1124,Croatia,2008,7.7
+1125,Croatia,2009,5.0
+1126,Croatia,2010,3.4
+1127,Croatia,2011,4.76
+1128,Croatia,2012,3.63
+1130,Cuba,1990,978.3
+1131,Cuba,1991,397.1
+1132,Cuba,1992,167.5
+1133,Cuba,1993,127.2
+1134,Cuba,1994,177.0
+1135,Cuba,1995,606.7
+1136,Cuba,1996,749.7
+1137,Cuba,1997,685.2
+1138,Cuba,1998,611.7
+1139,Cuba,1999,645.3
+1140,Cuba,2000,571.7
+1141,Cuba,2001,530.6
+1142,Cuba,2002,518.0
+1143,Cuba,2003,508.4
+1144,Cuba,2004,471.8
+1145,Cuba,2005,241.0
+1146,Cuba,2006,266.1
+1147,Cuba,2007,103.5
+1148,Cuba,2008,87.7
+1149,Cuba,2009,11.7
+1150,Cuba,2010,22.1
+1151,Cuba,2011,14.26
+1152,Cuba,2012,15.2
+1153,Cuba,2013,12.19
+1154,Cuba,2014,13.8
+1156,Cyprus,1990,266.4
+1157,Cyprus,1991,294.7
+1158,Cyprus,1992,336.4
+1159,Cyprus,1993,466.4
+1160,Cyprus,1994,212.0
+1161,Cyprus,1995,240.5
+1162,Cyprus,1996,208.9
+1163,Cyprus,1997,160.8
+1164,Cyprus,1998,130.3
+1165,Cyprus,1999,158.7
+1166,Cyprus,2000,294.0
+1167,Cyprus,2001,165.5
+1168,Cyprus,2002,135.9
+1169,Cyprus,2003,74.1
+1171,Czechia,1991,6.5
+1172,Czechia,1993,102.6
+1173,Czechia,1994,555.7
+1174,Czechia,1995,441.5
+1175,Czechia,1996,55.4
+1176,Czechia,1997,23.2
+1177,Czechia,1998,14.3
+1178,Czechia,1999,-63.5
+1179,Czechia,2000,-68.1
+1180,Czechia,2001,10.6
+1181,Czechia,2002,146.2
+1182,Czechia,2003,93.4
+1184,Democratic Republic of Congo,1991,17.7
+1185,Democratic Republic of Congo,1995,1209.7
+1186,Democratic Republic of Congo,1996,960.4
+1187,Democratic Republic of Congo,1997,578.0
+1188,Democratic Republic of Congo,1998,907.4
+1189,Democratic Republic of Congo,1999,410.6
+1190,Democratic Republic of Congo,2000,454.6
+1191,Democratic Republic of Congo,2001,1151.2
+1192,Democratic Republic of Congo,2002,1081.3
+1193,Democratic Republic of Congo,2003,607.6
+1194,Democratic Republic of Congo,2004,364.3
+1195,Democratic Republic of Congo,2005,312.6
+1196,Democratic Republic of Congo,2006,228.2
+1197,Democratic Republic of Congo,2007,90.5
+1198,Democratic Republic of Congo,2008,50.5
+1199,Democratic Republic of Congo,2009,59.82
+1200,Democratic Republic of Congo,2010,76.6
+1201,Democratic Republic of Congo,2011,56.93
+1202,Democratic Republic of Congo,2012,47.85
+1203,Democratic Republic of Congo,2013,35.94
+1205,Djibouti,1991,22.1
+1206,Djibouti,1995,22.7
+1207,Djibouti,1996,21.5
+1208,Djibouti,1997,18.9
+1209,Djibouti,1998,20.6
+1210,Djibouti,1999,20.6
+1211,Djibouti,2000,21.2
+1212,Djibouti,2001,18.5
+1213,Djibouti,2002,16.3
+1214,Djibouti,2003,12.6
+1215,Djibouti,2004,9.3
+1216,Djibouti,2005,7.7
+1217,Djibouti,2006,3.7
+1218,Djibouti,2007,2.8
+1219,Djibouti,2008,1.5
+1220,Djibouti,2009,1.2
+1221,Djibouti,2010,0.7
+1222,Djibouti,2011,0.66
+1223,Djibouti,2012,0.64
+1224,Djibouti,2013,0.62
+1226,Dominica,1991,3.3
+1227,Dominica,1993,1.5
+1228,Dominica,1994,1.5
+1229,Dominica,1995,1.1
+1230,Dominica,1996,1.8
+1231,Dominica,1997,1.8
+1232,Dominica,1998,2.3
+1233,Dominica,1999,1.2
+1234,Dominica,2000,2.3
+1235,Dominica,2001,1.7
+1236,Dominica,2002,3.1
+1237,Dominica,2003,1.5
+1238,Dominica,2004,1.1
+1239,Dominica,2005,1.9
+1240,Dominica,2006,0.6
+1241,Dominica,2007,0.0
+1242,Dominica,2008,0.0
+1243,Dominica,2009,0.4
+1244,Dominica,2010,0.4
+1245,Dominica,2011,0.16
+1246,Dominica,2012,0.01
+1247,Dominica,2013,0.09
+1249,Dominican Republic,1991,33.9
+1250,Dominican Republic,1992,287.9
+1251,Dominican Republic,1993,426.7
+1252,Dominican Republic,1994,498.8
+1253,Dominican Republic,1995,837.9
+1254,Dominican Republic,1996,677.2
+1255,Dominican Republic,1997,614.4
+1256,Dominican Republic,1998,509.6
+1257,Dominican Republic,1999,877.7
+1258,Dominican Republic,2000,623.9
+1259,Dominican Republic,2001,650.8
+1260,Dominican Republic,2002,406.9
+1261,Dominican Republic,2003,322.8
+1262,Dominican Republic,2004,372.8
+1263,Dominican Republic,2005,262.1
+1264,Dominican Republic,2006,232.8
+1265,Dominican Republic,2007,74.4
+1266,Dominican Republic,2008,53.9
+1267,Dominican Republic,2009,76.8
+1268,Dominican Republic,2010,54.7
+1269,Dominican Republic,2011,50.61
+1270,Dominican Republic,2012,40.87
+1271,Dominican Republic,2013,34.78
+1272,Dominican Republic,2014,36.9
+1274,Eastern Africa,1991,629.4
+1275,Eastern Africa,1995,1044.5
+1276,Eastern Africa,1996,887.3
+1277,Eastern Africa,1997,1067.2
+1278,Eastern Africa,1998,1070.1
+1279,Eastern Africa,1999,675.4
+1280,Eastern Africa,2000,714.5
+1281,Eastern Africa,2001,642.4
+1282,Eastern Africa,2002,643.4
+1283,Eastern Africa,2003,524.0
+1284,Eastern Africa,2004,411.7
+1285,Eastern Africa,2005,470.7
+1286,Eastern Africa,2006,288.0
+1287,Eastern Africa,2007,213.9
+1288,Eastern Africa,2008,122.1
+1289,Eastern Africa,2009,126.35
+1290,Eastern Africa,2010,126.42
+1291,Eastern Africa,2011,123.31
+1292,Eastern Africa,2012,83.13
+1293,Eastern Africa,2013,63.59
+1295,Eastern Europe,1990,136383.2
+1296,Eastern Europe,1991,57580.3
+1297,Eastern Europe,1992,53539.9
+1298,Eastern Europe,1993,32659.2
+1299,Eastern Europe,1994,29389.9
+1300,Eastern Europe,1995,25749.9
+1301,Eastern Europe,1996,16935.6
+1302,Eastern Europe,1997,12234.0
+1303,Eastern Europe,1998,17153.6
+1304,Eastern Europe,1999,16687.4
+1305,Eastern Europe,2000,26809.4
+1306,Eastern Europe,2001,2178.5
+1307,Eastern Europe,2002,1320.9
+1308,Eastern Europe,2003,1365.7
+1309,Eastern Europe,2004,1479.6
+1310,Eastern Europe,2005,1068.8
+1311,Eastern Europe,2006,1379.1
+1312,Eastern Europe,2007,1533.4
+1313,Eastern Europe,2008,1560.9
+1314,Eastern Europe,2009,1311.6
+1315,Eastern Europe,2010,1152.7
+1316,Eastern Europe,2011,1257.75
+1317,Eastern Europe,2012,1074.0
+1318,Eastern Europe,2013,911.48
+1319,Eastern Europe,2014,693.99
+1321,Ecuador,1990,648.6
+1322,Ecuador,1991,860.8
+1323,Ecuador,1992,477.1
+1324,Ecuador,1993,480.6
+1325,Ecuador,1994,298.1
+1326,Ecuador,1995,382.4
+1327,Ecuador,1996,351.7
+1328,Ecuador,1997,387.8
+1329,Ecuador,1998,365.9
+1330,Ecuador,1999,277.9
+1331,Ecuador,2000,354.9
+1332,Ecuador,2001,578.7
+1333,Ecuador,2002,273.4
+1334,Ecuador,2003,259.9
+1335,Ecuador,2004,167.4
+1336,Ecuador,2005,286.3
+1337,Ecuador,2006,114.0
+1338,Ecuador,2007,150.7
+1339,Ecuador,2008,79.8
+1340,Ecuador,2009,87.24
+1341,Ecuador,2010,62.04
+1342,Ecuador,2011,32.28
+1343,Ecuador,2012,33.76
+1344,Ecuador,2013,22.03
+1345,Ecuador,2014,21.48
+1347,Egypt,1990,4426.0
+1348,Egypt,1991,3933.0
+1349,Egypt,1992,6276.0
+1350,Egypt,1993,6600.0
+1351,Egypt,1994,2737.0
+1352,Egypt,1995,2880.5
+1353,Egypt,1996,2944.9
+1354,Egypt,1997,2785.0
+1355,Egypt,1998,2816.0
+1356,Egypt,1999,2749.8
+1357,Egypt,2000,2746.3
+1358,Egypt,2001,2704.3
+1359,Egypt,2002,1944.1
+1360,Egypt,2003,1662.7
+1361,Egypt,2004,1644.2
+1362,Egypt,2005,1348.6
+1363,Egypt,2006,1091.6
+1364,Egypt,2007,860.8
+1365,Egypt,2008,726.2
+1366,Egypt,2009,789.5
+1367,Egypt,2010,705.6
+1368,Egypt,2011,488.78
+1369,Egypt,2012,630.18
+1370,Egypt,2013,352.2
+1371,Egypt,2014,326.29
+1373,El Salvador,1991,425.7
+1374,El Salvador,1992,654.1
+1375,El Salvador,1993,481.7
+1376,El Salvador,1994,261.2
+1377,El Salvador,1995,336.4
+1378,El Salvador,1996,318.5
+1379,El Salvador,1997,284.7
+1380,El Salvador,1998,198.7
+1381,El Salvador,1999,114.7
+1382,El Salvador,2000,107.7
+1383,El Salvador,2001,121.2
+1384,El Salvador,2002,108.1
+1385,El Salvador,2003,105.2
+1386,El Salvador,2004,81.1
+1387,El Salvador,2005,138.7
+1388,El Salvador,2006,84.9
+1389,El Salvador,2007,51.4
+1390,El Salvador,2008,25.4
+1391,El Salvador,2009,11.9
+1392,El Salvador,2010,11.5
+1393,El Salvador,2011,9.55
+1394,El Salvador,2012,9.32
+1395,El Salvador,2013,8.08
+1396,El Salvador,2014,8.54
+1398,Equatorial Guinea,1990,43.1
+1399,Equatorial Guinea,1991,43.3
+1400,Equatorial Guinea,1992,46.0
+1401,Equatorial Guinea,1993,47.5
+1402,Equatorial Guinea,1994,51.7
+1403,Equatorial Guinea,1995,58.8
+1404,Equatorial Guinea,1996,60.8
+1405,Equatorial Guinea,1997,65.0
+1406,Equatorial Guinea,1998,62.3
+1407,Equatorial Guinea,1999,37.9
+1408,Equatorial Guinea,2000,49.4
+1409,Equatorial Guinea,2001,44.1
+1410,Equatorial Guinea,2002,27.9
+1411,Equatorial Guinea,2003,19.9
+1412,Equatorial Guinea,2004,14.4
+1413,Equatorial Guinea,2005,14.3
+1414,Equatorial Guinea,2006,10.1
+1415,Equatorial Guinea,2007,10.6
+1416,Equatorial Guinea,2008,8.1
+1417,Equatorial Guinea,2009,6.22
+1418,Equatorial Guinea,2010,6.4
+1419,Equatorial Guinea,2011,5.67
+1420,Equatorial Guinea,2012,5.39
+1421,Equatorial Guinea,2013,5.12
+1422,Equatorial Guinea,2014,4.95
+1424,Eritrea,1991,3.3
+1425,Eritrea,1995,54.0
+1426,Eritrea,1996,43.2
+1427,Eritrea,1997,42.7
+1428,Eritrea,1998,26.8
+1429,Eritrea,1999,26.5
+1430,Eritrea,2000,51.4
+1431,Eritrea,2005,31.3
+1432,Eritrea,2006,5.1
+1433,Eritrea,2007,4.0
+1434,Eritrea,2008,3.8
+1435,Eritrea,2009,3.15
+1436,Eritrea,2010,1.12
+1437,Eritrea,2011,0.96
+1438,Eritrea,2012,1.01
+1439,Eritrea,2013,1.02
+1441,Estonia,1991,0.0
+1442,Estonia,1995,765.0
+1443,Estonia,1996,-442.0
+1444,Estonia,1997,56.0
+1445,Estonia,1998,55.7
+1446,Estonia,1999,57.8
+1447,Estonia,2000,17.0
+1448,Estonia,2001,1.3
+1449,Estonia,2002,1.8
+1450,Estonia,2003,3.8
+1452,Eswatini,1991,0.8
+1453,Eswatini,1993,97.0
+1454,Eswatini,1994,94.6
+1455,Eswatini,1995,36.0
+1456,Eswatini,1996,23.8
+1457,Eswatini,1997,17.8
+1458,Eswatini,1998,3.7
+1459,Eswatini,1999,3.5
+1460,Eswatini,2000,1.3
+1461,Eswatini,2001,2.1
+1462,Eswatini,2002,2.4
+1463,Eswatini,2003,2.2
+1464,Eswatini,2004,3.5
+1465,Eswatini,2005,6.0
+1466,Eswatini,2006,1.2
+1467,Eswatini,2007,5.6
+1468,Eswatini,2008,8.6
+1469,Eswatini,2009,9.5
+1470,Eswatini,2010,5.0
+1471,Eswatini,2011,3.14
+1472,Eswatini,2012,3.74
+1473,Eswatini,2013,1.18
+1474,Eswatini,2014,1.47
+1476,Ethiopia,1991,12.6
+1477,Ethiopia,1995,48.6
+1478,Ethiopia,1996,47.7
+1479,Ethiopia,1997,50.7
+1480,Ethiopia,1998,61.8
+1481,Ethiopia,1999,56.2
+1482,Ethiopia,2000,58.0
+1483,Ethiopia,2001,54.7
+1484,Ethiopia,2002,86.6
+1485,Ethiopia,2003,39.7
+1486,Ethiopia,2004,23.7
+1487,Ethiopia,2005,22.0
+1488,Ethiopia,2006,13.1
+1489,Ethiopia,2007,5.0
+1490,Ethiopia,2008,4.3
+1491,Ethiopia,2009,2.1
+1492,Ethiopia,2010,11.0
+1493,Ethiopia,2011,11.28
+1494,Ethiopia,2012,10.8
+1495,Ethiopia,2013,5.46
+1497,Fiji,1990,41.8
+1498,Fiji,1991,55.2
+1499,Fiji,1992,9.8
+1500,Fiji,1993,8.0
+1501,Fiji,1994,0.9
+1502,Fiji,1995,62.7
+1503,Fiji,1996,29.8
+1504,Fiji,1997,13.7
+1505,Fiji,1998,15.5
+1506,Fiji,1999,11.4
+1507,Fiji,2000,2.5
+1508,Fiji,2001,2.5
+1509,Fiji,2002,5.3
+1510,Fiji,2003,1.6
+1511,Fiji,2004,5.5
+1512,Fiji,2005,6.0
+1513,Fiji,2006,5.4
+1514,Fiji,2007,4.5
+1515,Fiji,2008,4.8
+1516,Fiji,2009,7.6
+1517,Fiji,2010,9.2
+1518,Fiji,2011,14.46
+1519,Fiji,2012,14.47
+1520,Fiji,2013,7.67
+1522,Finland,1990,2615.0
+1523,Finland,1991,1718.3
+1524,Finland,1992,927.5
+1525,Finland,1993,1144.0
+1526,Finland,1994,593.4
+1528,Gabon,1991,10.4
+1529,Gabon,1993,14.2
+1530,Gabon,1994,13.6
+1531,Gabon,1995,9.3
+1532,Gabon,1996,13.5
+1533,Gabon,1997,14.0
+1534,Gabon,1998,14.0
+1535,Gabon,1999,9.7
+1536,Gabon,2000,16.2
+1537,Gabon,2001,8.4
+1538,Gabon,2002,6.9
+1539,Gabon,2003,6.9
+1540,Gabon,2004,6.2
+1541,Gabon,2005,3.6
+1542,Gabon,2006,4.5
+1543,Gabon,2007,4.1
+1544,Gabon,2008,5.2
+1545,Gabon,2009,29.7
+1546,Gabon,2010,30.6
+1547,Gabon,2011,45.95
+1548,Gabon,2012,30.25
+1549,Gabon,2013,28.6
+1551,Gambia,1990,15.0
+1552,Gambia,1991,11.6
+1553,Gambia,1992,12.4
+1554,Gambia,1993,21.4
+1555,Gambia,1994,23.1
+1556,Gambia,1995,24.7
+1557,Gambia,1996,21.0
+1558,Gambia,1997,28.4
+1559,Gambia,1998,11.1
+1560,Gambia,1999,7.0
+1561,Gambia,2000,6.2
+1562,Gambia,2001,5.9
+1563,Gambia,2002,4.9
+1564,Gambia,2003,5.3
+1565,Gambia,2004,0.2
+1566,Gambia,2005,0.9
+1567,Gambia,2006,1.1
+1568,Gambia,2007,0.7
+1569,Gambia,2008,0.5
+1570,Gambia,2009,1.6
+1571,Gambia,2010,1.5
+1572,Gambia,2011,0.98
+1573,Gambia,2012,1.91
+1574,Gambia,2013,0.86
+1575,Gambia,2014,0.77
+1577,Georgia,1991,94.8
+1578,Georgia,1994,53.2
+1579,Georgia,1995,77.8
+1580,Georgia,1996,79.6
+1581,Georgia,1997,86.7
+1582,Georgia,1998,69.9
+1583,Georgia,1999,62.9
+1584,Georgia,2000,65.9
+1585,Georgia,2001,68.1
+1586,Georgia,2002,64.3
+1587,Georgia,2003,61.1
+1588,Georgia,2004,55.8
+1589,Georgia,2005,34.4
+1590,Georgia,2006,14.6
+1591,Georgia,2007,6.3
+1592,Georgia,2008,5.9
+1593,Georgia,2009,4.6
+1594,Georgia,2010,5.9
+1595,Georgia,2011,4.31
+1596,Georgia,2012,2.66
+1597,Georgia,2013,1.38
+1598,Georgia,2014,0.1
+1600,Ghana,1990,114.7
+1601,Ghana,1991,107.2
+1602,Ghana,1992,78.2
+1603,Ghana,1993,28.2
+1604,Ghana,1994,46.7
+1605,Ghana,1995,48.6
+1606,Ghana,1996,15.7
+1607,Ghana,1997,51.5
+1608,Ghana,1998,55.1
+1609,Ghana,1999,54.7
+1610,Ghana,2000,56.7
+1611,Ghana,2001,41.1
+1612,Ghana,2002,24.0
+1613,Ghana,2003,37.7
+1614,Ghana,2004,47.5
+1615,Ghana,2005,25.2
+1616,Ghana,2006,34.2
+1617,Ghana,2007,23.6
+1618,Ghana,2008,21.6
+1619,Ghana,2009,80.7
+1620,Ghana,2010,37.2
+1621,Ghana,2011,30.71
+1622,Ghana,2012,27.19
+1623,Ghana,2013,25.39
+1625,Grenada,1991,0.0
+1626,Grenada,1993,4.1
+1627,Grenada,1994,4.1
+1628,Grenada,1995,6.9
+1629,Grenada,1996,5.1
+1630,Grenada,1997,6.9
+1631,Grenada,1998,4.2
+1632,Grenada,1999,3.1
+1633,Grenada,2000,3.1
+1634,Grenada,2001,1.3
+1635,Grenada,2002,2.3
+1636,Grenada,2003,2.3
+1637,Grenada,2004,2.4
+1638,Grenada,2005,0.7
+1639,Grenada,2006,0.3
+1640,Grenada,2007,0.2
+1641,Grenada,2008,0.5
+1642,Grenada,2009,0.8
+1643,Grenada,2010,0.8
+1644,Grenada,2011,0.18
+1645,Grenada,2012,0.26
+1646,Grenada,2013,0.33
+1648,Guatemala,1990,360.9
+1649,Guatemala,1991,370.1
+1650,Guatemala,1992,370.1
+1651,Guatemala,1993,370.1
+1652,Guatemala,1994,344.2
+1653,Guatemala,1995,489.2
+1654,Guatemala,1996,505.6
+1655,Guatemala,1997,749.5
+1656,Guatemala,1998,789.8
+1657,Guatemala,1999,720.2
+1658,Guatemala,2000,891.1
+1659,Guatemala,2001,1055.4
+1660,Guatemala,2002,952.5
+1661,Guatemala,2003,677.0
+1662,Guatemala,2004,556.1
+1663,Guatemala,2005,586.9
+1664,Guatemala,2006,355.8
+1665,Guatemala,2007,302.9
+1666,Guatemala,2008,184.4
+1667,Guatemala,2009,249.3
+1668,Guatemala,2010,256.2
+1669,Guatemala,2011,221.0
+1670,Guatemala,2012,148.48
+1671,Guatemala,2013,249.98
+1672,Guatemala,2014,229.36
+1674,Guinea,1990,40.6
+1675,Guinea,1991,42.1
+1676,Guinea,1992,46.0
+1677,Guinea,1993,44.5
+1678,Guinea,1994,44.5
+1679,Guinea,1995,48.5
+1680,Guinea,1996,52.4
+1681,Guinea,1997,52.2
+1682,Guinea,1998,42.0
+1683,Guinea,1999,40.0
+1684,Guinea,2000,49.9
+1685,Guinea,2001,48.4
+1686,Guinea,2002,45.0
+1687,Guinea,2003,42.1
+1688,Guinea,2004,32.4
+1689,Guinea,2005,26.1
+1690,Guinea,2006,22.9
+1691,Guinea,2007,22.1
+1692,Guinea,2008,22.0
+1693,Guinea,2009,21.8
+1694,Guinea,2010,23.4
+1695,Guinea,2011,24.53
+1696,Guinea,2012,22.2
+1697,Guinea,2013,7.08
+1699,Guinea-Bissau,1990,22.2
+1700,Guinea-Bissau,1991,23.0
+1701,Guinea-Bissau,1992,23.4
+1702,Guinea-Bissau,1993,23.9
+1703,Guinea-Bissau,1994,24.4
+1704,Guinea-Bissau,1995,25.7
+1705,Guinea-Bissau,1996,26.3
+1706,Guinea-Bissau,1997,26.8
+1707,Guinea-Bissau,1998,27.1
+1708,Guinea-Bissau,1999,26.0
+1709,Guinea-Bissau,2000,26.0
+1710,Guinea-Bissau,2001,26.9
+1711,Guinea-Bissau,2002,27.2
+1712,Guinea-Bissau,2003,31.4
+1713,Guinea-Bissau,2004,27.2
+1714,Guinea-Bissau,2005,14.6
+1715,Guinea-Bissau,2006,15.2
+1716,Guinea-Bissau,2007,5.2
+1717,Guinea-Bissau,2008,3.9
+1718,Guinea-Bissau,2009,6.65
+1719,Guinea-Bissau,2010,2.9
+1720,Guinea-Bissau,2011,2.86
+1721,Guinea-Bissau,2012,2.7
+1722,Guinea-Bissau,2013,2.31
+1724,Guyana,1990,19.3
+1725,Guyana,1991,17.7
+1726,Guyana,1992,23.0
+1727,Guyana,1993,59.8
+1728,Guyana,1994,42.6
+1729,Guyana,1995,94.1
+1730,Guyana,1996,44.4
+1731,Guyana,1997,29.3
+1732,Guyana,1998,30.9
+1733,Guyana,1999,42.6
+1734,Guyana,2000,26.4
+1735,Guyana,2001,21.2
+1736,Guyana,2002,15.6
+1737,Guyana,2003,11.6
+1738,Guyana,2004,12.9
+1739,Guyana,2005,26.0
+1740,Guyana,2006,9.2
+1741,Guyana,2007,0.6
+1742,Guyana,2008,1.7
+1743,Guyana,2009,1.1
+1744,Guyana,2010,2.4
+1745,Guyana,2011,2.41
+1746,Guyana,2012,1.36
+1747,Guyana,2013,0.96
+1748,Guyana,2014,0.8
+1750,Haiti,1991,0.0
+1751,Haiti,1995,170.5
+1752,Haiti,1996,170.5
+1753,Haiti,1997,170.5
+1754,Haiti,1998,0.2
+1755,Haiti,1999,0.2
+1756,Haiti,2000,185.7
+1757,Haiti,2001,185.7
+1758,Haiti,2002,197.7
+1759,Haiti,2003,121.0
+1760,Haiti,2004,140.6
+1761,Haiti,2005,85.5
+1762,Haiti,2006,54.8
+1763,Haiti,2007,9.4
+1764,Haiti,2008,3.7
+1765,Haiti,2009,3.85
+1766,Haiti,2010,3.41
+1767,Haiti,2011,4.24
+1768,Haiti,2012,5.15
+1769,Haiti,2013,1.95
+1771,Honduras,1991,0.0
+1772,Honduras,1994,114.8
+1773,Honduras,1995,369.2
+1774,Honduras,1996,779.5
+1775,Honduras,1997,620.7
+1776,Honduras,1998,430.8
+1777,Honduras,1999,634.8
+1778,Honduras,2000,556.3
+1779,Honduras,2001,639.3
+1780,Honduras,2002,555.7
+1781,Honduras,2003,591.5
+1782,Honduras,2004,519.5
+1783,Honduras,2005,448.2
+1784,Honduras,2006,391.5
+1785,Honduras,2007,305.1
+1786,Honduras,2008,216.2
+1787,Honduras,2009,153.9
+1788,Honduras,2010,161.6
+1789,Honduras,2011,109.36
+1790,Honduras,2012,80.91
+1791,Honduras,2013,18.94
+1793,Hungary,1990,7624.8
+1794,Hungary,1991,4156.3
+1795,Hungary,1992,2467.5
+1796,Hungary,1993,1919.2
+1797,Hungary,1994,988.2
+1798,Hungary,1995,684.7
+1799,Hungary,1996,98.8
+1800,Hungary,1997,117.5
+1801,Hungary,1998,122.1
+1802,Hungary,1999,113.7
+1803,Hungary,2000,97.3
+1804,Hungary,2001,96.4
+1805,Hungary,2002,47.3
+1806,Hungary,2003,34.2
+1808,Iceland,1990,172.4
+1809,Iceland,1991,126.3
+1810,Iceland,1992,88.5
+1811,Iceland,1993,69.2
+1812,Iceland,1994,38.6
+1813,Iceland,1995,7.6
+1814,Iceland,1996,7.5
+1815,Iceland,1997,8.9
+1816,Iceland,1998,7.0
+1817,Iceland,1999,6.6
+1818,Iceland,2000,6.7
+1819,Iceland,2001,7.1
+1820,Iceland,2002,2.6
+1821,Iceland,2003,2.7
+1822,Iceland,2004,2.0
+1823,Iceland,2005,1.7
+1824,Iceland,2006,2.4
+1825,Iceland,2007,2.2
+1826,Iceland,2008,2.2
+1827,Iceland,2009,1.8
+1828,Iceland,2010,0.0
+1829,Iceland,2011,0.0
+1830,Iceland,2012,0.0
+1831,Iceland,2013,0.0
+1832,Iceland,2014,0.1
+1834,India,1990,0.0
+1835,India,1991,0.0
+1836,India,1992,11041.2
+1837,India,1993,16312.2
+1838,India,1994,16066.1
+1839,India,1995,10286.9
+1840,India,1996,16668.5
+1841,India,1997,15165.1
+1842,India,1998,12253.6
+1843,India,1999,21454.6
+1844,India,2000,18695.6
+1845,India,2001,14369.8
+1846,India,2002,15026.9
+1847,India,2003,13848.1
+1848,India,2004,10149.8
+1849,India,2005,4326.3
+1850,India,2006,5280.3
+1851,India,2007,2971.0
+1852,India,2008,2904.9
+1853,India,2009,977.0
+1854,India,2010,1933.7
+1855,India,2011,1484.57
+1856,India,2012,1638.45
+1857,India,2013,956.14
+1859,Indonesia,1991,80.8
+1860,Indonesia,1992,6693.3
+1861,Indonesia,1993,5686.3
+1862,Indonesia,1994,8027.1
+1863,Indonesia,1995,9199.6
+1864,Indonesia,1996,9476.0
+1865,Indonesia,1997,7965.8
+1866,Indonesia,1998,6330.5
+1867,Indonesia,1999,5921.2
+1868,Indonesia,2000,5451.2
+1869,Indonesia,2001,5229.5
+1870,Indonesia,2002,5787.4
+1871,Indonesia,2003,5119.8
+1872,Indonesia,2004,4256.7
+1873,Indonesia,2005,2725.7
+1874,Indonesia,2006,553.7
+1875,Indonesia,2007,500.1
+1876,Indonesia,2008,299.9
+1877,Indonesia,2009,374.8
+1878,Indonesia,2010,433.0
+1879,Indonesia,2011,337.5
+1880,Indonesia,2012,329.38
+1881,Indonesia,2013,310.52
+1882,Indonesia,2014,257.98
+1884,Iran,1990,1393.9
+1885,Iran,1991,6865.0
+1886,Iran,1992,7195.3
+1887,Iran,1993,8069.0
+1888,Iran,1994,6866.2
+1889,Iran,1995,4691.7
+1890,Iran,1996,3773.5
+1891,Iran,1997,9831.9
+1892,Iran,1998,8924.6
+1893,Iran,1999,5926.8
+1894,Iran,2000,5693.3
+1895,Iran,2001,5804.4
+1896,Iran,2002,8572.9
+1897,Iran,2003,6753.6
+1898,Iran,2004,6188.6
+1899,Iran,2005,2448.6
+1900,Iran,2006,1143.8
+1901,Iran,2007,745.6
+1902,Iran,2008,508.6
+1903,Iran,2009,466.3
+1904,Iran,2010,421.3
+1905,Iran,2011,377.58
+1906,Iran,2012,376.81
+1907,Iran,2013,357.84
+1909,Iraq,1991,12.6
+1910,Iraq,1995,1618.3
+1911,Iraq,1996,1583.3
+1912,Iraq,1997,1573.4
+1913,Iraq,1998,25.9
+1914,Iraq,1999,27.1
+1915,Iraq,2000,26.4
+1916,Iraq,2006,1580.6
+1917,Iraq,2007,1836.3
+1918,Iraq,2008,1752.4
+1919,Iraq,2009,593.1
+1920,Iraq,2010,105.8
+1921,Iraq,2011,110.44
+1922,Iraq,2012,112.2
+1923,Iraq,2013,101.75
+1925,Israel,1990,0.0
+1926,Israel,1991,2148.0
+1927,Israel,1992,6735.2
+1928,Israel,1993,5670.0
+1929,Israel,1994,1431.3
+1930,Israel,1995,1103.7
+1931,Israel,1996,-838.6
+1932,Israel,1997,2136.2
+1933,Israel,1998,2258.8
+1934,Israel,1999,1652.8
+1935,Israel,2000,1696.5
+1936,Israel,2001,1147.7
+1937,Israel,2002,1241.3
+1938,Israel,2003,710.6
+1939,Israel,2004,783.1
+1940,Israel,2005,725.9
+1941,Israel,2006,585.0
+1942,Israel,2007,503.3
+1943,Israel,2008,475.4
+1944,Israel,2009,817.8
+1945,Israel,2010,91.1
+1946,Israel,2011,-488.57
+1947,Israel,2012,731.49
+1948,Israel,2013,90.96
+1950,Jamaica,1990,431.0
+1951,Jamaica,1991,371.7
+1952,Jamaica,1992,482.5
+1953,Jamaica,1993,103.3
+1954,Jamaica,1994,82.4
+1955,Jamaica,1995,93.4
+1956,Jamaica,1996,100.4
+1957,Jamaica,1997,113.8
+1958,Jamaica,1998,221.9
+1959,Jamaica,1999,226.4
+1960,Jamaica,2000,69.5
+1961,Jamaica,2001,61.4
+1962,Jamaica,2002,39.2
+1963,Jamaica,2003,23.1
+1964,Jamaica,2004,23.3
+1965,Jamaica,2005,6.2
+1966,Jamaica,2006,2.5
+1967,Jamaica,2007,2.9
+1968,Jamaica,2008,8.5
+1969,Jamaica,2009,19.5
+1970,Jamaica,2010,15.7
+1971,Jamaica,2011,5.74
+1972,Jamaica,2012,7.4
+1973,Jamaica,2013,3.63
+1975,Japan,1990,120074.2
+1976,Japan,1991,170008.0
+1977,Japan,1992,99418.2
+1978,Japan,1993,72952.1
+1979,Japan,1994,23341.5
+1980,Japan,1995,36103.6
+1981,Japan,1996,5944.2
+1982,Japan,1997,7364.5
+1983,Japan,1998,6883.3
+1984,Japan,1999,6867.0
+1985,Japan,2000,5989.2
+1986,Japan,2001,5261.1
+1987,Japan,2002,2461.0
+1988,Japan,2003,3559.5
+1989,Japan,2004,1959.4
+1990,Japan,2005,1067.9
+1991,Japan,2006,1051.9
+1992,Japan,2007,1030.0
+1993,Japan,2008,1050.0
+1994,Japan,2009,699.5
+1995,Japan,2010,225.4
+1996,Japan,2011,262.83
+1997,Japan,2012,80.84
+1998,Japan,2013,39.59
+2000,Jordan,1990,798.3
+2001,Jordan,1991,839.5
+2002,Jordan,1992,779.0
+2003,Jordan,1993,856.3
+2004,Jordan,1994,963.7
+2005,Jordan,1995,944.1
+2006,Jordan,1996,1036.6
+2007,Jordan,1997,1239.2
+2008,Jordan,1998,1110.5
+2009,Jordan,1999,799.9
+2010,Jordan,2000,746.6
+2011,Jordan,2001,607.7
+2012,Jordan,2002,267.0
+2013,Jordan,2003,228.6
+2014,Jordan,2004,196.9
+2015,Jordan,2005,201.2
+2016,Jordan,2006,150.3
+2017,Jordan,2007,119.5
+2018,Jordan,2008,92.4
+2019,Jordan,2009,97.7
+2020,Jordan,2010,114.2
+2021,Jordan,2011,120.51
+2022,Jordan,2012,143.15
+2023,Jordan,2013,63.0
+2025,Kazakhstan,1990,2355.9
+2026,Kazakhstan,1991,2285.2
+2027,Kazakhstan,1993,3279.2
+2028,Kazakhstan,1996,1739.6
+2029,Kazakhstan,1997,1541.6
+2030,Kazakhstan,1998,1970.5
+2031,Kazakhstan,1999,829.6
+2032,Kazakhstan,2000,597.9
+2033,Kazakhstan,2001,346.2
+2034,Kazakhstan,2002,146.9
+2035,Kazakhstan,2003,64.0
+2036,Kazakhstan,2004,45.5
+2037,Kazakhstan,2005,40.0
+2038,Kazakhstan,2006,79.9
+2039,Kazakhstan,2007,120.9
+2040,Kazakhstan,2008,128.8
+2041,Kazakhstan,2009,130.2
+2042,Kazakhstan,2010,110.0
+2043,Kazakhstan,2011,96.75
+2044,Kazakhstan,2012,21.36
+2045,Kazakhstan,2013,102.32
+2047,Kenya,1990,452.3
+2048,Kenya,1991,442.9
+2049,Kenya,1992,350.4
+2050,Kenya,1993,352.1
+2051,Kenya,1994,563.5
+2052,Kenya,1995,562.0
+2053,Kenya,1996,410.6
+2054,Kenya,1997,573.0
+2055,Kenya,1998,566.9
+2056,Kenya,1999,387.9
+2057,Kenya,2000,381.4
+2058,Kenya,2001,343.4
+2059,Kenya,2002,322.0
+2060,Kenya,2003,268.4
+2061,Kenya,2004,200.0
+2062,Kenya,2005,267.5
+2063,Kenya,2006,134.8
+2064,Kenya,2007,88.8
+2065,Kenya,2008,75.7
+2066,Kenya,2009,58.3
+2067,Kenya,2010,56.2
+2068,Kenya,2011,52.62
+2069,Kenya,2012,42.35
+2070,Kenya,2013,29.14
+2072,Kiribati,1991,0.0
+2073,Kiribati,1993,0.8
+2074,Kiribati,1994,0.8
+2075,Kiribati,1995,0.8
+2076,Kiribati,1996,0.8
+2077,Kiribati,1997,0.7
+2078,Kiribati,1998,0.6
+2079,Kiribati,1999,0.0
+2080,Kiribati,2000,0.0
+2081,Kiribati,2001,0.0
+2082,Kiribati,2002,0.0
+2083,Kiribati,2003,0.0
+2084,Kiribati,2004,0.0
+2085,Kiribati,2005,0.0
+2086,Kiribati,2006,0.0
+2087,Kiribati,2007,0.1
+2088,Kiribati,2008,0.2
+2089,Kiribati,2009,0.0
+2090,Kiribati,2010,0.1
+2091,Kiribati,2011,0.01
+2092,Kiribati,2012,0.03
+2093,Kiribati,2013,0.03
+2095,Kuwait,1991,0.0
+2096,Kuwait,1993,576.0
+2097,Kuwait,1994,694.0
+2098,Kuwait,1995,615.9
+2099,Kuwait,1996,614.7
+2100,Kuwait,1997,615.3
+2101,Kuwait,1998,546.5
+2102,Kuwait,1999,596.4
+2103,Kuwait,2000,595.1
+2104,Kuwait,2001,518.7
+2105,Kuwait,2002,515.7
+2106,Kuwait,2003,450.6
+2107,Kuwait,2004,485.8
+2108,Kuwait,2005,373.9
+2109,Kuwait,2006,393.1
+2110,Kuwait,2007,427.9
+2111,Kuwait,2008,408.5
+2112,Kuwait,2009,426.1
+2113,Kuwait,2010,439.1
+2114,Kuwait,2011,397.75
+2115,Kuwait,2012,420.15
+2116,Kuwait,2013,414.67
+2118,Kyrgyzstan,1991,131.5
+2119,Kyrgyzstan,1992,120.1
+2120,Kyrgyzstan,1993,106.5
+2121,Kyrgyzstan,1994,98.6
+2122,Kyrgyzstan,1995,95.4
+2123,Kyrgyzstan,1996,82.9
+2124,Kyrgyzstan,1997,83.5
+2125,Kyrgyzstan,1998,70.7
+2126,Kyrgyzstan,1999,67.9
+2127,Kyrgyzstan,2000,53.7
+2128,Kyrgyzstan,2001,67.0
+2129,Kyrgyzstan,2002,50.2
+2130,Kyrgyzstan,2003,47.3
+2131,Kyrgyzstan,2004,36.5
+2132,Kyrgyzstan,2005,16.4
+2133,Kyrgyzstan,2006,8.8
+2134,Kyrgyzstan,2007,5.8
+2135,Kyrgyzstan,2008,12.4
+2136,Kyrgyzstan,2009,7.7
+2137,Kyrgyzstan,2010,4.3
+2138,Kyrgyzstan,2011,2.96
+2139,Kyrgyzstan,2012,2.91
+2140,Kyrgyzstan,2013,3.99
+2142,Laos,1990,0.0
+2143,Laos,1991,0.0
+2144,Laos,1992,4.0
+2145,Laos,1993,0.0
+2146,Laos,1994,0.0
+2147,Laos,1995,43.3
+2148,Laos,1996,43.3
+2149,Laos,1997,43.3
+2150,Laos,1998,43.9
+2151,Laos,1999,44.7
+2152,Laos,2000,45.2
+2153,Laos,2001,42.0
+2154,Laos,2002,42.9
+2155,Laos,2003,35.9
+2156,Laos,2004,23.1
+2157,Laos,2005,21.3
+2158,Laos,2006,19.4
+2159,Laos,2007,8.0
+2160,Laos,2008,3.6
+2161,Laos,2009,3.0
+2162,Laos,2010,2.5
+2163,Laos,2011,2.66
+2164,Laos,2012,2.75
+2165,Laos,2013,1.6
+2166,Laos,2014,2.0
+2168,Latin America + Caribbean,1990,74647.7
+2169,Latin America + Caribbean,1991,48121.1
+2170,Latin America + Caribbean,1992,58599.4
+2171,Latin America + Caribbean,1993,59045.9
+2172,Latin America + Caribbean,1994,43530.3
+2173,Latin America + Caribbean,1995,44614.6
+2174,Latin America + Caribbean,1996,35781.0
+2175,Latin America + Caribbean,1997,27732.7
+2176,Latin America + Caribbean,1998,31042.3
+2177,Latin America + Caribbean,1999,35768.7
+2178,Latin America + Caribbean,2000,31019.6
+2179,Latin America + Caribbean,2001,26209.3
+2180,Latin America + Caribbean,2002,17683.6
+2181,Latin America + Caribbean,2003,18357.6
+2182,Latin America + Caribbean,2004,19879.9
+2183,Latin America + Caribbean,2005,14496.9
+2184,Latin America + Caribbean,2006,11431.6
+2185,Latin America + Caribbean,2007,7042.0
+2186,Latin America + Caribbean,2008,5944.9
+2187,Latin America + Caribbean,2009,5386.66
+2188,Latin America + Caribbean,2010,5245.91
+2189,Latin America + Caribbean,2011,4834.55
+2190,Latin America + Caribbean,2012,5166.47
+2191,Latin America + Caribbean,2013,3849.69
+2192,Latin America + Caribbean,2014,2462.51
+2194,Latvia,1991,15.3
+2195,Latvia,1995,726.9
+2196,Latvia,1996,342.8
+2197,Latvia,1997,43.2
+2198,Latvia,1998,39.8
+2199,Latvia,1999,25.1
+2200,Latvia,2000,38.2
+2201,Latvia,2001,11.4
+2202,Latvia,2002,3.0
+2203,Latvia,2003,2.2
+2205,Lebanon,1991,0.0
+2206,Lebanon,1993,942.1
+2207,Lebanon,1994,861.9
+2208,Lebanon,1995,1024.7
+2209,Lebanon,1996,980.9
+2210,Lebanon,1997,884.9
+2211,Lebanon,1998,776.7
+2212,Lebanon,1999,724.8
+2213,Lebanon,2000,777.5
+2214,Lebanon,2001,770.1
+2215,Lebanon,2002,710.8
+2216,Lebanon,2003,685.0
+2217,Lebanon,2004,432.0
+2218,Lebanon,2005,354.6
+2219,Lebanon,2006,290.0
+2220,Lebanon,2007,112.4
+2221,Lebanon,2008,58.2
+2222,Lebanon,2009,58.4
+2223,Lebanon,2010,88.6
+2224,Lebanon,2011,92.26
+2225,Lebanon,2012,94.67
+2226,Lebanon,2013,72.61
+2227,Lebanon,2014,69.69
+2229,Lesotho,1991,0.3
+2230,Lesotho,1994,6.0
+2231,Lesotho,1995,6.8
+2232,Lesotho,1996,6.6
+2233,Lesotho,1997,3.5
+2234,Lesotho,1998,3.4
+2235,Lesotho,1999,2.8
+2236,Lesotho,2000,2.4
+2237,Lesotho,2001,4.1
+2238,Lesotho,2002,4.6
+2239,Lesotho,2003,3.3
+2240,Lesotho,2004,2.1
+2241,Lesotho,2005,1.1
+2242,Lesotho,2006,1.9
+2243,Lesotho,2007,2.0
+2244,Lesotho,2008,3.3
+2245,Lesotho,2009,3.8
+2246,Lesotho,2010,3.1
+2247,Lesotho,2011,2.5
+2248,Lesotho,2012,2.24
+2249,Lesotho,2013,1.96
+2250,Lesotho,2014,1.14
+2252,Liberia,1990,27.3
+2253,Liberia,1991,65.0
+2254,Liberia,1992,66.9
+2255,Liberia,1993,44.3
+2256,Liberia,1994,34.9
+2257,Liberia,1995,67.9
+2258,Liberia,1996,89.0
+2259,Liberia,1997,77.5
+2260,Liberia,1998,32.4
+2261,Liberia,1999,20.3
+2262,Liberia,2000,42.8
+2263,Liberia,2001,26.2
+2264,Liberia,2002,54.0
+2265,Liberia,2003,27.8
+2266,Liberia,2004,15.5
+2267,Liberia,2005,5.8
+2268,Liberia,2006,6.2
+2269,Liberia,2007,3.7
+2270,Liberia,2008,3.4
+2271,Liberia,2009,5.0
+2272,Liberia,2010,5.5
+2273,Liberia,2011,5.41
+2274,Liberia,2012,4.82
+2275,Liberia,2013,4.51
+2276,Liberia,2014,3.74
+2278,Libya,1990,135.1
+2279,Libya,1991,1284.5
+2280,Libya,1992,1527.8
+2281,Libya,1993,1589.0
+2282,Libya,1994,1582.8
+2283,Libya,1995,1522.4
+2284,Libya,1996,1498.7
+2285,Libya,1997,1324.0
+2286,Libya,1998,2145.3
+2287,Libya,1999,1472.6
+2288,Libya,2000,1596.5
+2289,Libya,2001,1596.5
+2290,Libya,2002,1596.5
+2291,Libya,2003,1511.6
+2292,Libya,2004,1281.5
+2293,Libya,2005,1088.0
+2294,Libya,2006,520.7
+2295,Libya,2007,142.8
+2296,Libya,2008,111.6
+2297,Libya,2009,127.5
+2298,Libya,2010,139.26
+2299,Libya,2011,131.89
+2300,Libya,2012,144.1
+2301,Libya,2013,144.0
+2302,Libya,2014,122.4
+2304,Liechtenstein,1990,11.0
+2305,Liechtenstein,1991,25.1
+2306,Liechtenstein,1992,14.8
+2307,Liechtenstein,1993,10.2
+2308,Liechtenstein,1994,5.7
+2309,Liechtenstein,1995,1.8
+2310,Liechtenstein,1996,0.4
+2311,Liechtenstein,1997,0.2
+2312,Liechtenstein,1998,0.0
+2313,Liechtenstein,1999,0.1
+2314,Liechtenstein,2000,0.1
+2315,Liechtenstein,2001,0.1
+2316,Liechtenstein,2002,0.1
+2317,Liechtenstein,2003,0.1
+2318,Liechtenstein,2004,-0.1
+2319,Liechtenstein,2005,0.0
+2320,Liechtenstein,2006,0.0
+2321,Liechtenstein,2007,0.0
+2322,Liechtenstein,2008,0.0
+2323,Liechtenstein,2009,0.0
+2324,Liechtenstein,2010,0.0
+2325,Liechtenstein,2011,0.0
+2326,Liechtenstein,2012,0.0
+2327,Liechtenstein,2013,0.0
+2329,Lithuania,1990,4180.1
+2330,Lithuania,1991,3849.2
+2331,Lithuania,1992,2450.7
+2332,Lithuania,1994,665.3
+2333,Lithuania,1995,421.7
+2334,Lithuania,1996,328.4
+2335,Lithuania,1997,122.3
+2336,Lithuania,1998,110.6
+2337,Lithuania,1999,87.9
+2338,Lithuania,2000,50.5
+2339,Lithuania,2001,11.7
+2340,Lithuania,2002,14.7
+2341,Lithuania,2003,13.0
+2343,Madagascar,1991,0.8
+2344,Madagascar,1995,20.8
+2345,Madagascar,1996,23.5
+2346,Madagascar,1997,114.3
+2347,Madagascar,1998,27.0
+2348,Madagascar,1999,27.5
+2349,Madagascar,2000,14.2
+2350,Madagascar,2001,11.3
+2351,Madagascar,2002,8.8
+2352,Madagascar,2003,7.9
+2353,Madagascar,2004,9.7
+2354,Madagascar,2005,9.6
+2355,Madagascar,2006,4.0
+2356,Madagascar,2007,4.2
+2357,Madagascar,2008,3.0
+2358,Madagascar,2009,33.0
+2359,Madagascar,2010,16.8
+2360,Madagascar,2011,16.5
+2361,Madagascar,2012,15.95
+2362,Madagascar,2013,15.95
+2364,Malawi,1991,97.3
+2365,Malawi,1992,61.8
+2366,Malawi,1993,174.5
+2367,Malawi,1994,156.8
+2368,Malawi,1995,160.2
+2369,Malawi,1996,181.3
+2370,Malawi,1997,159.5
+2371,Malawi,1998,184.3
+2372,Malawi,1999,180.5
+2373,Malawi,2000,101.7
+2374,Malawi,2001,88.0
+2375,Malawi,2002,75.4
+2376,Malawi,2003,60.9
+2377,Malawi,2004,12.1
+2378,Malawi,2005,7.1
+2379,Malawi,2006,6.6
+2380,Malawi,2007,5.1
+2381,Malawi,2008,6.7
+2382,Malawi,2009,8.6
+2383,Malawi,2010,13.0
+2384,Malawi,2011,12.71
+2385,Malawi,2012,12.54
+2386,Malawi,2013,10.18
+2387,Malawi,2014,9.35
+2389,Malaysia,1990,4193.7
+2390,Malaysia,1991,4501.8
+2391,Malaysia,1992,4469.5
+2392,Malaysia,1993,4266.8
+2393,Malaysia,1994,5188.4
+2394,Malaysia,1995,3740.2
+2395,Malaysia,1996,3285.1
+2396,Malaysia,1997,3619.3
+2397,Malaysia,1998,2625.5
+2398,Malaysia,1999,2342.5
+2399,Malaysia,2000,2435.0
+2400,Malaysia,2001,2374.7
+2401,Malaysia,2002,1966.3
+2402,Malaysia,2003,1516.6
+2403,Malaysia,2004,1483.6
+2404,Malaysia,2005,1042.4
+2405,Malaysia,2006,964.3
+2406,Malaysia,2007,664.2
+2407,Malaysia,2008,571.2
+2408,Malaysia,2009,604.5
+2409,Malaysia,2010,542.8
+2410,Malaysia,2011,485.8
+2411,Malaysia,2012,737.6
+2412,Malaysia,2013,449.93
+2413,Malaysia,2014,473.39
+2415,Maldives,1990,4.5
+2416,Maldives,1991,5.9
+2417,Maldives,1992,16.1
+2418,Maldives,1993,18.5
+2419,Maldives,1994,23.8
+2420,Maldives,1995,5.9
+2421,Maldives,1996,0.0
+2422,Maldives,1997,7.8
+2423,Maldives,1998,0.9
+2424,Maldives,1999,1.5
+2425,Maldives,2000,4.6
+2426,Maldives,2001,15.7
+2427,Maldives,2002,4.0
+2428,Maldives,2003,2.0
+2429,Maldives,2004,2.2
+2430,Maldives,2005,2.7
+2431,Maldives,2006,5.4
+2432,Maldives,2007,4.4
+2433,Maldives,2008,3.7
+2434,Maldives,2009,5.1
+2435,Maldives,2010,4.0
+2436,Maldives,2011,3.67
+2437,Maldives,2012,3.69
+2438,Maldives,2013,3.19
+2439,Maldives,2014,3.32
+2441,Mali,1990,0.0
+2442,Mali,1991,0.0
+2443,Mali,1992,0.0
+2444,Mali,1993,0.0
+2445,Mali,1994,0.0
+2446,Mali,1995,106.1
+2447,Mali,1996,111.6
+2448,Mali,1997,115.2
+2449,Mali,1998,117.0
+2450,Mali,1999,39.0
+2451,Mali,2000,30.2
+2452,Mali,2001,28.3
+2453,Mali,2002,30.1
+2454,Mali,2003,31.6
+2455,Mali,2004,31.7
+2456,Mali,2005,33.1
+2457,Mali,2006,26.0
+2458,Mali,2007,21.6
+2459,Mali,2008,14.5
+2460,Mali,2009,14.4
+2461,Mali,2010,15.5
+2462,Mali,2011,17.6
+2463,Mali,2012,16.61
+2464,Mali,2013,10.29
+2466,Malta,1990,194.7
+2467,Malta,1991,130.2
+2468,Malta,1992,95.9
+2469,Malta,1993,71.7
+2470,Malta,1994,135.3
+2471,Malta,1995,109.5
+2472,Malta,1996,98.4
+2473,Malta,1997,82.1
+2474,Malta,1998,143.4
+2475,Malta,1999,261.1
+2476,Malta,2000,99.5
+2477,Malta,2001,94.7
+2478,Malta,2002,40.5
+2479,Malta,2003,43.8
+2481,Marshall Islands,1990,1.2
+2482,Marshall Islands,1991,1.2
+2483,Marshall Islands,1992,1.2
+2484,Marshall Islands,1993,1.3
+2485,Marshall Islands,1994,1.3
+2486,Marshall Islands,1995,1.3
+2487,Marshall Islands,1996,1.2
+2488,Marshall Islands,1997,1.2
+2489,Marshall Islands,1998,0.7
+2490,Marshall Islands,1999,1.2
+2491,Marshall Islands,2000,0.6
+2492,Marshall Islands,2001,0.3
+2493,Marshall Islands,2002,0.3
+2494,Marshall Islands,2003,0.5
+2495,Marshall Islands,2004,0.1
+2496,Marshall Islands,2005,0.0
+2497,Marshall Islands,2006,0.1
+2498,Marshall Islands,2007,0.2
+2499,Marshall Islands,2008,0.2
+2500,Marshall Islands,2009,0.2
+2501,Marshall Islands,2010,0.2
+2502,Marshall Islands,2011,0.24
+2503,Marshall Islands,2012,0.21
+2504,Marshall Islands,2013,0.12
+2506,Mashriq,1991,2250.9
+2507,Mashriq,1995,6594.6
+2508,Mashriq,1996,6615.8
+2509,Mashriq,1997,6453.7
+2510,Mashriq,1998,3654.6
+2511,Mashriq,1999,3360.3
+2512,Mashriq,2000,3263.0
+2513,Mashriq,2006,2731.7
+2514,Mashriq,2007,2440.5
+2515,Mashriq,2008,2192.8
+2516,Mashriq,2009,979.9
+2517,Mashriq,2010,476.1
+2518,Mashriq,2011,499.78
+2519,Mashriq,2012,433.2
+2520,Mashriq,2013,265.39
+2522,Mauritania,1991,0.0
+2523,Mauritania,1994,17.3
+2524,Mauritania,1995,23.2
+2525,Mauritania,1996,7.8
+2526,Mauritania,1997,16.0
+2527,Mauritania,1998,14.7
+2528,Mauritania,1999,13.4
+2529,Mauritania,2000,15.6
+2530,Mauritania,2001,16.6
+2531,Mauritania,2002,16.5
+2532,Mauritania,2003,14.3
+2533,Mauritania,2004,8.4
+2534,Mauritania,2005,7.3
+2535,Mauritania,2006,4.2
+2536,Mauritania,2007,2.7
+2537,Mauritania,2008,6.5
+2538,Mauritania,2009,20.4
+2539,Mauritania,2010,20.5
+2540,Mauritania,2011,17.6
+2541,Mauritania,2012,20.35
+2542,Mauritania,2013,20.35
+2544,Mauritius,1991,0.0
+2545,Mauritius,1992,71.2
+2546,Mauritius,1993,70.1
+2547,Mauritius,1994,43.8
+2548,Mauritius,1995,27.7
+2549,Mauritius,1996,37.7
+2550,Mauritius,1997,30.3
+2551,Mauritius,1998,45.8
+2552,Mauritius,1999,24.2
+2553,Mauritius,2000,27.6
+2554,Mauritius,2001,20.4
+2555,Mauritius,2002,14.4
+2556,Mauritius,2003,16.3
+2557,Mauritius,2004,15.7
+2558,Mauritius,2005,9.1
+2559,Mauritius,2006,8.6
+2560,Mauritius,2007,8.6
+2561,Mauritius,2008,6.9
+2562,Mauritius,2009,10.7
+2563,Mauritius,2010,5.3
+2564,Mauritius,2011,8.82
+2565,Mauritius,2012,7.14
+2566,Mauritius,2013,5.44
+2567,Mauritius,2014,7.93
+2569,Meso America,1990,22201.9
+2570,Meso America,1991,18228.2
+2571,Meso America,1992,13397.2
+2572,Meso America,1993,14341.6
+2573,Meso America,1994,15936.0
+2574,Meso America,1995,8924.9
+2575,Meso America,1996,9018.5
+2576,Meso America,1997,8724.4
+2577,Meso America,1998,7727.2
+2578,Meso America,1999,7323.0
+2579,Meso America,2000,8436.4
+2580,Meso America,2001,7283.6
+2581,Meso America,2002,6287.7
+2582,Meso America,2003,5881.2
+2583,Meso America,2004,7400.4
+2584,Meso America,2005,5517.2
+2585,Meso America,2006,2864.5
+2586,Meso America,2007,2912.3
+2587,Meso America,2008,2701.2
+2588,Meso America,2009,2432.3
+2589,Meso America,2010,2244.3
+2590,Meso America,2011,2062.6
+2591,Meso America,2012,1820.81
+2592,Meso America,2013,1423.19
+2593,Meso America,2014,985.22
+2595,Mexico,1990,21484.9
+2596,Mexico,1991,16389.2
+2597,Mexico,1992,11600.6
+2598,Mexico,1993,12792.9
+2599,Mexico,1994,14353.3
+2600,Mexico,1995,6745.3
+2601,Mexico,1996,6168.1
+2602,Mexico,1997,6108.9
+2603,Mexico,1998,5641.3
+2604,Mexico,1999,4819.7
+2605,Mexico,2000,6055.7
+2606,Mexico,2001,4666.8
+2607,Mexico,2002,3954.7
+2608,Mexico,2003,3783.3
+2609,Mexico,2004,5619.3
+2610,Mexico,2005,3816.7
+2611,Mexico,2006,1617.9
+2612,Mexico,2007,1917.9
+2613,Mexico,2008,1992.3
+2614,Mexico,2009,1769.6
+2615,Mexico,2010,1598.9
+2616,Mexico,2011,1563.6
+2617,Mexico,2012,1428.58
+2618,Mexico,2013,1106.23
+2619,Mexico,2014,720.28
+2621,Micronesia (country),1991,0.0
+2622,Micronesia (country),1995,1.3
+2623,Micronesia (country),1996,1.2
+2624,Micronesia (country),1997,1.2
+2625,Micronesia (country),1998,1.2
+2626,Micronesia (country),1999,1.2
+2627,Micronesia (country),2000,1.0
+2628,Micronesia (country),2001,1.4
+2629,Micronesia (country),2002,2.2
+2630,Micronesia (country),2003,2.0
+2631,Micronesia (country),2004,1.9
+2632,Micronesia (country),2005,0.5
+2633,Micronesia (country),2006,0.1
+2634,Micronesia (country),2007,0.5
+2635,Micronesia (country),2008,0.2
+2636,Micronesia (country),2009,0.1
+2637,Micronesia (country),2010,0.2
+2638,Micronesia (country),2011,0.06
+2639,Micronesia (country),2012,0.06
+2640,Micronesia (country),2013,0.03
+2641,Micronesia (country),2014,0.09
+2643,Moldova,1991,16.6
+2644,Moldova,1995,86.1
+2645,Moldova,1996,73.7
+2646,Moldova,1997,88.3
+2647,Moldova,1998,41.6
+2648,Moldova,1999,11.1
+2649,Moldova,2000,31.7
+2650,Moldova,2001,23.5
+2651,Moldova,2002,29.6
+2652,Moldova,2003,18.9
+2653,Moldova,2004,21.5
+2654,Moldova,2005,15.3
+2655,Moldova,2006,12.7
+2656,Moldova,2007,11.3
+2657,Moldova,2008,2.8
+2658,Moldova,2009,1.2
+2659,Moldova,2010,0.7
+2660,Moldova,2011,1.31
+2661,Moldova,2012,1.88
+2662,Moldova,2013,0.99
+2663,Moldova,2014,0.76
+2665,Monaco,1991,0.0
+2666,Monaco,1992,8.4
+2667,Monaco,1993,10.3
+2668,Monaco,1994,6.7
+2669,Monaco,1995,0.9
+2670,Monaco,1996,0.0
+2671,Monaco,1997,0.0
+2672,Monaco,1998,0.0
+2673,Monaco,1999,0.0
+2674,Monaco,2000,0.1
+2675,Monaco,2001,0.1
+2676,Monaco,2002,0.1
+2677,Monaco,2003,1.5
+2678,Monaco,2004,0.2
+2679,Monaco,2005,0.1
+2680,Monaco,2006,0.1
+2681,Monaco,2007,0.1
+2682,Monaco,2008,0.1
+2683,Monaco,2009,0.1
+2684,Monaco,2010,0.0
+2685,Monaco,2011,0.01
+2686,Monaco,2012,0.01
+2687,Monaco,2013,0.01
+2689,Mongolia,1991,0.0
+2690,Mongolia,1995,7.5
+2691,Mongolia,1996,12.6
+2692,Mongolia,1997,12.7
+2693,Mongolia,1998,13.4
+2694,Mongolia,1999,12.7
+2695,Mongolia,2000,11.4
+2696,Mongolia,2001,9.9
+2697,Mongolia,2002,7.3
+2698,Mongolia,2003,6.2
+2699,Mongolia,2004,4.5
+2700,Mongolia,2005,4.3
+2701,Mongolia,2006,3.3
+2702,Mongolia,2007,2.6
+2703,Mongolia,2008,2.6
+2704,Mongolia,2009,1.9
+2705,Mongolia,2010,1.5
+2706,Mongolia,2011,1.16
+2707,Mongolia,2012,2.87
+2708,Mongolia,2013,0.94
+2709,Mongolia,2014,0.38
+2711,Montenegro,1991,0.0
+2712,Montenegro,1995,107.2
+2713,Montenegro,1996,107.2
+2714,Montenegro,1997,107.2
+2715,Montenegro,1998,1.1
+2716,Montenegro,1999,1.1
+2717,Montenegro,2000,1.1
+2718,Montenegro,2006,15.4
+2719,Montenegro,2007,4.2
+2720,Montenegro,2008,0.5
+2721,Montenegro,2009,0.9
+2722,Montenegro,2010,0.6
+2723,Montenegro,2011,0.72
+2724,Montenegro,2012,0.94
+2725,Montenegro,2013,0.75
+2726,Montenegro,2014,0.72
+2728,Morocco,1990,625.4
+2729,Morocco,1991,855.8
+2730,Morocco,1992,1335.8
+2731,Morocco,1993,858.3
+2732,Morocco,1994,1288.4
+2733,Morocco,1995,1506.6
+2734,Morocco,1996,1465.0
+2735,Morocco,1997,1304.9
+2736,Morocco,1998,1902.9
+2737,Morocco,1999,1301.5
+2738,Morocco,2000,1456.5
+2739,Morocco,2001,2078.0
+2740,Morocco,2002,1061.6
+2741,Morocco,2003,1177.5
+2742,Morocco,2004,1060.9
+2743,Morocco,2005,595.4
+2744,Morocco,2006,473.7
+2745,Morocco,2007,321.1
+2746,Morocco,2008,212.7
+2747,Morocco,2009,176.4
+2748,Morocco,2010,132.3
+2749,Morocco,2011,129.7
+2750,Morocco,2012,90.84
+2751,Morocco,2013,49.41
+2752,Morocco,2014,49.1
+2754,Mozambique,1991,4.3
+2755,Mozambique,1994,30.1
+2756,Mozambique,1995,27.9
+2757,Mozambique,1996,42.4
+2758,Mozambique,1997,20.2
+2759,Mozambique,1998,3.3
+2760,Mozambique,1999,15.7
+2761,Mozambique,2000,18.8
+2762,Mozambique,2001,17.3
+2763,Mozambique,2002,14.4
+2764,Mozambique,2003,3.1
+2765,Mozambique,2004,3.0
+2766,Mozambique,2005,7.3
+2767,Mozambique,2006,9.0
+2768,Mozambique,2007,9.2
+2769,Mozambique,2008,10.0
+2770,Mozambique,2009,9.88
+2771,Mozambique,2010,9.6
+2772,Mozambique,2011,8.4
+2773,Mozambique,2012,8.17
+2774,Mozambique,2013,8.25
+2776,Myanmar,1991,0.0
+2777,Myanmar,1992,16.6
+2778,Myanmar,1994,3.4
+2779,Myanmar,1995,51.2
+2780,Myanmar,1996,75.7
+2781,Myanmar,1997,57.4
+2782,Myanmar,1998,55.3
+2783,Myanmar,1999,31.6
+2784,Myanmar,2000,26.6
+2785,Myanmar,2001,39.4
+2786,Myanmar,2002,45.7
+2787,Myanmar,2003,53.7
+2788,Myanmar,2004,33.0
+2789,Myanmar,2005,15.0
+2790,Myanmar,2006,1.3
+2791,Myanmar,2007,2.4
+2792,Myanmar,2008,2.0
+2793,Myanmar,2009,4.1
+2794,Myanmar,2010,4.5
+2795,Myanmar,2011,5.75
+2796,Myanmar,2012,9.66
+2797,Myanmar,2013,3.02
+2799,Namibia,1991,0.0
+2800,Namibia,1993,43.7
+2801,Namibia,1994,50.0
+2802,Namibia,1995,42.4
+2803,Namibia,1996,33.9
+2804,Namibia,1997,34.5
+2805,Namibia,1998,31.3
+2806,Namibia,1999,32.7
+2807,Namibia,2000,23.9
+2808,Namibia,2001,24.6
+2809,Namibia,2002,20.0
+2810,Namibia,2003,17.2
+2811,Namibia,2004,7.7
+2812,Namibia,2005,0.0
+2813,Namibia,2006,0.0
+2814,Namibia,2007,11.8
+2815,Namibia,2008,5.8
+2816,Namibia,2009,6.0
+2817,Namibia,2010,10.7
+2818,Namibia,2011,9.95
+2819,Namibia,2012,4.76
+2820,Namibia,2013,7.02
+2821,Namibia,2014,3.64
+2823,Nauru,1991,0.0
+2824,Nauru,1995,0.6
+2825,Nauru,1996,0.5
+2826,Nauru,1997,0.5
+2827,Nauru,1998,0.5
+2828,Nauru,1999,0.4
+2829,Nauru,2000,0.4
+2830,Nauru,2001,0.4
+2831,Nauru,2002,0.0
+2832,Nauru,2003,0.0
+2833,Nauru,2004,0.0
+2834,Nauru,2005,0.0
+2835,Nauru,2006,0.0
+2836,Nauru,2007,0.0
+2837,Nauru,2008,0.0
+2838,Nauru,2009,0.0
+2839,Nauru,2010,0.0
+2840,Nauru,2011,0.01
+2841,Nauru,2012,0.01
+2842,Nauru,2013,0.0
+2844,Nepal,1991,25.0
+2845,Nepal,1992,25.0
+2846,Nepal,1993,25.0
+2847,Nepal,1994,25.0
+2848,Nepal,1995,30.1
+2849,Nepal,1996,32.3
+2850,Nepal,1997,31.2
+2851,Nepal,1998,35.1
+2852,Nepal,1999,27.2
+2853,Nepal,2000,99.2
+2854,Nepal,2001,2.6
+2855,Nepal,2002,2.6
+2856,Nepal,2003,0.9
+2857,Nepal,2004,0.9
+2858,Nepal,2005,0.1
+2859,Nepal,2006,1.2
+2860,Nepal,2007,1.2
+2861,Nepal,2008,1.4
+2862,Nepal,2009,1.2
+2863,Nepal,2010,1.2
+2864,Nepal,2011,1.2
+2865,Nepal,2012,0.74
+2866,Nepal,2013,0.66
+2868,New Zealand,1990,1195.4
+2869,New Zealand,1991,836.6
+2870,New Zealand,1992,721.8
+2871,New Zealand,1993,859.1
+2872,New Zealand,1994,459.6
+2873,New Zealand,1995,322.9
+2874,New Zealand,1996,98.7
+2875,New Zealand,1997,79.9
+2876,New Zealand,1998,49.5
+2877,New Zealand,1999,68.1
+2878,New Zealand,2000,19.2
+2879,New Zealand,2001,32.4
+2880,New Zealand,2002,42.8
+2881,New Zealand,2003,35.3
+2882,New Zealand,2004,32.6
+2883,New Zealand,2005,48.6
+2884,New Zealand,2006,40.2
+2885,New Zealand,2007,33.3
+2886,New Zealand,2008,17.8
+2887,New Zealand,2009,17.5
+2888,New Zealand,2010,11.6
+2889,New Zealand,2011,11.5
+2890,New Zealand,2012,5.47
+2891,New Zealand,2013,8.2
+2893,Nicaragua,1990,86.5
+2894,Nicaragua,1991,90.0
+2895,Nicaragua,1992,94.5
+2896,Nicaragua,1993,100.0
+2897,Nicaragua,1994,105.6
+2898,Nicaragua,1995,111.1
+2899,Nicaragua,1996,86.5
+2900,Nicaragua,1997,58.7
+2901,Nicaragua,1998,41.0
+2902,Nicaragua,1999,58.1
+2903,Nicaragua,2000,44.4
+2904,Nicaragua,2001,37.2
+2905,Nicaragua,2002,64.9
+2906,Nicaragua,2003,32.2
+2907,Nicaragua,2004,50.6
+2908,Nicaragua,2005,39.4
+2909,Nicaragua,2006,28.5
+2910,Nicaragua,2007,6.5
+2911,Nicaragua,2008,3.9
+2912,Nicaragua,2009,8.6
+2913,Nicaragua,2010,7.5
+2914,Nicaragua,2011,5.41
+2915,Nicaragua,2012,11.87
+2916,Nicaragua,2013,3.56
+2917,Nicaragua,2014,5.4
+2919,Niger,1990,16.0
+2920,Niger,1991,16.8
+2921,Niger,1992,18.2
+2922,Niger,1993,18.1
+2923,Niger,1994,17.5
+2924,Niger,1995,18.6
+2925,Niger,1996,18.1
+2926,Niger,1997,61.1
+2927,Niger,1998,62.3
+2928,Niger,1999,59.8
+2929,Niger,2000,40.9
+2930,Niger,2001,44.7
+2931,Niger,2002,42.4
+2932,Niger,2003,39.7
+2933,Niger,2004,38.5
+2934,Niger,2005,29.5
+2935,Niger,2006,30.0
+2936,Niger,2007,20.4
+2937,Niger,2008,18.9
+2938,Niger,2009,17.65
+2939,Niger,2010,16.0
+2940,Niger,2011,15.92
+2941,Niger,2012,15.33
+2942,Niger,2013,14.61
+2943,Niger,2014,14.32
+2945,Nigeria,1990,934.0
+2946,Nigeria,1991,1046.6
+2947,Nigeria,1992,1095.4
+2948,Nigeria,1993,2152.9
+2949,Nigeria,1994,1946.7
+2950,Nigeria,1995,1714.4
+2951,Nigeria,1996,5111.1
+2952,Nigeria,1997,5503.0
+2953,Nigeria,1998,5476.1
+2954,Nigeria,1999,4970.5
+2955,Nigeria,2000,4810.9
+2956,Nigeria,2001,4310.3
+2957,Nigeria,2002,3933.3
+2958,Nigeria,2003,3119.8
+2959,Nigeria,2004,2533.6
+2960,Nigeria,2005,497.6
+2961,Nigeria,2006,489.8
+2962,Nigeria,2007,113.5
+2963,Nigeria,2008,312.7
+2964,Nigeria,2009,336.5
+2965,Nigeria,2010,368.4
+2966,Nigeria,2011,402.32
+2967,Nigeria,2012,453.4
+2968,Nigeria,2013,334.46
+2970,Niue,1991,0.0
+2971,Niue,1995,0.1
+2972,Niue,1996,0.1
+2973,Niue,1997,0.0
+2974,Niue,1998,0.0
+2975,Niue,1999,0.0
+2976,Niue,2000,0.0
+2977,Niue,2003,0.0
+2978,Niue,2004,0.0
+2979,Niue,2005,0.0
+2980,Niue,2006,0.0
+2981,Niue,2007,0.0
+2982,Niue,2008,0.0
+2983,Niue,2009,0.0
+2984,Niue,2010,0.0
+2985,Niue,2011,0.0
+2986,Niue,2012,0.0
+2987,Niue,2013,0.0
+2989,North America,1990,242780.1
+2990,North America,1991,232317.6
+2991,North America,1992,212336.4
+2992,North America,1993,197014.5
+2993,North America,1994,106836.3
+2994,North America,1995,53229.4
+2995,North America,1996,15838.8
+2996,North America,1997,-1968.1
+2997,North America,1998,-1981.1
+2998,North America,1999,13908.3
+2999,North America,2000,4925.0
+3000,North America,2001,23047.0
+3001,North America,2002,17129.8
+3002,North America,2003,13251.3
+3003,North America,2004,14410.4
+3004,North America,2005,11495.3
+3005,North America,2006,11426.4
+3006,North America,2007,9080.0
+3007,North America,2008,6746.7
+3008,North America,2009,4559.6
+3009,North America,2010,2397.7
+3010,North America,2011,1687.71
+3011,North America,2012,-5.97
+3012,North America,2013,780.29
+3014,North East Asia,1990,179748.2
+3015,North East Asia,1991,240485.1
+3016,North East Asia,1992,244013.1
+3017,North East Asia,1993,212573.7
+3018,North East Asia,1994,141982.7
+3019,North East Asia,1995,162856.3
+3020,North East Asia,1996,103617.5
+3021,North East Asia,1997,114649.0
+3022,North East Asia,1998,184175.3
+3023,North East Asia,1999,120272.6
+3024,North East Asia,2000,111724.5
+3025,North East Asia,2001,84855.5
+3026,North East Asia,2002,64317.7
+3027,North East Asia,2003,72126.7
+3028,North East Asia,2004,47108.2
+3029,North East Asia,2005,37832.9
+3030,North East Asia,2006,37551.9
+3031,North East Asia,2007,30913.9
+3032,North East Asia,2008,22582.5
+3033,North East Asia,2009,25433.9
+3034,North East Asia,2010,23823.1
+3035,North East Asia,2011,23772.8
+3036,North East Asia,2012,23782.39
+3037,North East Asia,2013,17714.79
+3039,North Korea,1991,192.0
+3040,North Korea,1995,1329.0
+3041,North Korea,1996,1509.0
+3042,North Korea,1997,1552.0
+3043,North Korea,1998,1545.5
+3044,North Korea,1999,1501.0
+3045,North Korea,2000,1127.1
+3046,North Korea,2001,2405.7
+3047,North Korea,2002,2326.3
+3048,North Korea,2003,2172.6
+3049,North Korea,2004,2206.2
+3050,North Korea,2005,283.2
+3051,North Korea,2006,24.5
+3052,North Korea,2007,138.2
+3053,North Korea,2008,91.2
+3054,North Korea,2009,89.0
+3055,North Korea,2010,94.1
+3056,North Korea,2011,90.04
+3057,North Korea,2012,88.96
+3058,North Korea,2013,90.56
+3059,North Korea,2014,79.37
+3061,North Macedonia,1991,12.0
+3062,North Macedonia,1994,246.0
+3063,North Macedonia,1995,601.5
+3064,North Macedonia,1996,558.4
+3065,North Macedonia,1997,537.1
+3066,North Macedonia,1998,79.4
+3067,North Macedonia,1999,220.4
+3068,North Macedonia,2000,77.9
+3069,North Macedonia,2001,77.0
+3070,North Macedonia,2002,43.2
+3071,North Macedonia,2003,55.3
+3072,North Macedonia,2004,13.6
+3073,North Macedonia,2005,13.7
+3074,North Macedonia,2006,9.1
+3075,North Macedonia,2007,1.2
+3076,North Macedonia,2008,2.0
+3077,North Macedonia,2009,2.29
+3078,North Macedonia,2010,1.3
+3079,North Macedonia,2011,0.9
+3080,North Macedonia,2012,0.74
+3081,North Macedonia,2013,0.72
+3082,North Macedonia,2014,0.57
+3084,Northern Africa,1991,7770.9
+3085,Northern Africa,1993,12444.3
+3086,Northern Africa,1994,8830.0
+3087,Northern Africa,1995,9884.8
+3088,Northern Africa,1996,10009.6
+3089,Northern Africa,1997,8892.8
+3090,Northern Africa,1998,9922.1
+3091,Northern Africa,1999,8299.5
+3092,Northern Africa,2000,8425.1
+3093,Northern Africa,2001,8531.4
+3094,Northern Africa,2002,7378.2
+3095,Northern Africa,2003,6976.1
+3096,Northern Africa,2004,5726.2
+3097,Northern Africa,2005,4499.1
+3098,Northern Africa,2006,2779.0
+3099,Northern Africa,2007,1804.7
+3100,Northern Africa,2008,1474.9
+3101,Northern Africa,2009,1408.65
+3102,Northern Africa,2010,1142.64
+3103,Northern Africa,2011,916.19
+3104,Northern Africa,2012,1022.88
+3105,Northern Africa,2013,688.23
+3107,Norway,1990,2195.4
+3108,Norway,1991,1454.5
+3109,Norway,1992,845.6
+3110,Norway,1993,554.5
+3111,Norway,1994,267.0
+3112,Norway,1995,92.7
+3113,Norway,1996,71.4
+3114,Norway,1997,68.4
+3115,Norway,1998,51.4
+3116,Norway,1999,1.5
+3117,Norway,2000,18.3
+3118,Norway,2001,0.4
+3119,Norway,2002,-41.8
+3120,Norway,2003,-55.8
+3121,Norway,2004,-84.3
+3122,Norway,2005,-7.1
+3123,Norway,2006,-207.5
+3124,Norway,2007,-46.7
+3125,Norway,2008,15.6
+3126,Norway,2009,-5.1
+3127,Norway,2010,1.7
+3128,Norway,2011,-0.16
+3129,Norway,2012,0.0
+3130,Norway,2013,0.0
+3132,Oman,1991,0.0
+3133,Oman,1992,451.9
+3134,Oman,1993,427.7
+3135,Oman,1994,413.8
+3136,Oman,1995,262.3
+3137,Oman,1996,296.3
+3138,Oman,1997,278.9
+3139,Oman,1998,290.9
+3140,Oman,1999,288.1
+3141,Oman,2000,315.0
+3142,Oman,2001,229.5
+3143,Oman,2002,201.5
+3144,Oman,2003,152.2
+3145,Oman,2004,118.7
+3146,Oman,2005,74.1
+3147,Oman,2006,58.0
+3148,Oman,2007,29.6
+3149,Oman,2008,33.2
+3150,Oman,2009,32.1
+3151,Oman,2010,32.2
+3152,Oman,2011,34.82
+3153,Oman,2012,54.95
+3154,Oman,2013,28.87
+3155,Oman,2014,20.37
+3157,Pakistan,1990,1455.8
+3158,Pakistan,1991,1795.0
+3159,Pakistan,1992,1786.0
+3160,Pakistan,1993,2284.4
+3161,Pakistan,1994,2447.7
+3162,Pakistan,1995,2770.9
+3163,Pakistan,1996,2254.3
+3164,Pakistan,1997,2088.1
+3165,Pakistan,1998,1349.6
+3166,Pakistan,1999,2038.1
+3167,Pakistan,2000,2599.4
+3168,Pakistan,2001,2412.7
+3169,Pakistan,2002,2347.2
+3170,Pakistan,2003,1786.3
+3171,Pakistan,2004,1578.6
+3172,Pakistan,2005,606.8
+3173,Pakistan,2006,733.3
+3174,Pakistan,2007,354.0
+3175,Pakistan,2008,356.9
+3176,Pakistan,2009,245.3
+3177,Pakistan,2010,255.0
+3178,Pakistan,2011,276.05
+3179,Pakistan,2012,326.23
+3180,Pakistan,2013,247.02
+3181,Pakistan,2014,239.79
+3183,Palau,1991,0.0
+3184,Palau,1995,1.7
+3185,Palau,1996,1.1
+3186,Palau,1997,2.1
+3187,Palau,1998,80.4
+3188,Palau,1999,114.1
+3189,Palau,2000,70.7
+3190,Palau,2001,70.7
+3191,Palau,2002,0.2
+3192,Palau,2003,1.1
+3193,Palau,2004,1.0
+3194,Palau,2005,0.2
+3195,Palau,2006,0.1
+3196,Palau,2007,0.1
+3197,Palau,2008,0.1
+3198,Palau,2009,0.1
+3199,Palau,2010,0.2
+3200,Palau,2011,0.17
+3201,Palau,2012,0.17
+3202,Palau,2013,0.12
+3204,Panama,1990,269.6
+3205,Panama,1991,403.9
+3206,Panama,1992,188.3
+3207,Panama,1993,375.4
+3208,Panama,1994,268.6
+3209,Panama,1995,440.1
+3210,Panama,1996,355.2
+3211,Panama,1997,370.6
+3212,Panama,1998,361.3
+3213,Panama,1999,313.6
+3214,Panama,2000,261.0
+3215,Panama,2001,192.7
+3216,Panama,2002,204.7
+3217,Panama,2003,184.7
+3218,Panama,2004,152.5
+3219,Panama,2005,113.3
+3220,Panama,2006,64.8
+3221,Panama,2007,43.5
+3222,Panama,2008,40.2
+3223,Panama,2009,25.0
+3224,Panama,2010,24.6
+3225,Panama,2011,23.89
+3226,Panama,2012,32.77
+3227,Panama,2013,21.37
+3228,Panama,2014,19.22
+3230,Papua New Guinea,1991,28.5
+3231,Papua New Guinea,1992,39.4
+3232,Papua New Guinea,1993,39.7
+3233,Papua New Guinea,1994,56.2
+3234,Papua New Guinea,1995,12.8
+3235,Papua New Guinea,1996,65.0
+3236,Papua New Guinea,1997,39.0
+3237,Papua New Guinea,1998,50.0
+3238,Papua New Guinea,1999,38.3
+3239,Papua New Guinea,2000,52.0
+3240,Papua New Guinea,2001,19.3
+3241,Papua New Guinea,2002,39.7
+3242,Papua New Guinea,2003,26.3
+3243,Papua New Guinea,2004,21.0
+3244,Papua New Guinea,2005,18.8
+3245,Papua New Guinea,2006,7.1
+3246,Papua New Guinea,2007,9.5
+3247,Papua New Guinea,2008,1.5
+3248,Papua New Guinea,2009,3.2
+3249,Papua New Guinea,2010,3.3
+3250,Papua New Guinea,2011,1.69
+3251,Papua New Guinea,2012,3.06
+3252,Papua New Guinea,2013,3.02
+3254,Paraguay,1991,0.0
+3255,Paraguay,1992,240.0
+3256,Paraguay,1993,190.5
+3257,Paraguay,1994,221.0
+3258,Paraguay,1995,212.8
+3259,Paraguay,1996,182.0
+3260,Paraguay,1997,245.9
+3261,Paraguay,1998,113.8
+3262,Paraguay,1999,369.8
+3263,Paraguay,2000,175.5
+3264,Paraguay,2001,138.5
+3265,Paraguay,2002,105.5
+3266,Paraguay,2003,101.1
+3267,Paraguay,2004,145.1
+3268,Paraguay,2005,266.9
+3269,Paraguay,2006,111.7
+3270,Paraguay,2007,27.1
+3271,Paraguay,2008,39.0
+3272,Paraguay,2009,25.9
+3273,Paraguay,2010,20.9
+3274,Paraguay,2011,16.82
+3275,Paraguay,2012,29.33
+3276,Paraguay,2013,16.46
+3277,Paraguay,2014,17.83
+3279,Peru,1990,892.9
+3280,Peru,1991,708.8
+3281,Peru,1992,296.9
+3282,Peru,1993,297.6
+3283,Peru,1994,298.8
+3284,Peru,1995,429.2
+3285,Peru,1996,250.3
+3286,Peru,1997,271.9
+3287,Peru,1998,332.7
+3288,Peru,1999,300.2
+3289,Peru,2000,385.6
+3290,Peru,2001,189.8
+3291,Peru,2002,203.6
+3292,Peru,2003,191.1
+3293,Peru,2004,160.6
+3294,Peru,2005,149.4
+3295,Peru,2006,99.5
+3296,Peru,2007,43.4
+3297,Peru,2008,28.0
+3298,Peru,2009,27.3
+3299,Peru,2010,26.45
+3300,Peru,2011,32.5
+3301,Peru,2012,26.98
+3302,Peru,2013,25.81
+3303,Peru,2014,22.01
+3305,Philippines,1990,3477.2
+3306,Philippines,1991,2322.4
+3307,Philippines,1992,3862.1
+3308,Philippines,1993,3920.4
+3309,Philippines,1994,4263.9
+3310,Philippines,1995,3706.9
+3311,Philippines,1996,3374.3
+3312,Philippines,1997,2973.8
+3313,Philippines,1998,2311.0
+3314,Philippines,1999,2218.9
+3315,Philippines,2000,3064.3
+3316,Philippines,2001,2214.4
+3317,Philippines,2002,1795.1
+3318,Philippines,2003,1622.5
+3319,Philippines,2004,1570.6
+3320,Philippines,2005,1232.9
+3321,Philippines,2006,808.6
+3322,Philippines,2007,325.7
+3323,Philippines,2008,397.4
+3324,Philippines,2009,403.4
+3325,Philippines,2010,222.0
+3326,Philippines,2011,164.89
+3327,Philippines,2012,195.65
+3328,Philippines,2013,136.69
+3329,Philippines,2014,149.42
+3331,Poland,1990,5269.0
+3332,Poland,1991,3510.4
+3333,Poland,1992,2637.0
+3334,Poland,1993,2973.6
+3335,Poland,1994,4163.4
+3336,Poland,1995,1756.0
+3337,Poland,1996,712.6
+3338,Poland,1997,442.9
+3339,Poland,1998,443.3
+3340,Poland,1999,330.6
+3341,Poland,2000,286.8
+3342,Poland,2001,326.1
+3343,Poland,2002,351.2
+3344,Poland,2003,261.0
+3346,Qatar,1991,0.0
+3347,Qatar,1995,103.1
+3348,Qatar,1996,112.5
+3349,Qatar,1997,140.5
+3350,Qatar,1998,175.3
+3351,Qatar,1999,135.4
+3352,Qatar,2000,126.0
+3353,Qatar,2001,120.9
+3354,Qatar,2002,105.4
+3355,Qatar,2003,115.9
+3356,Qatar,2004,76.4
+3357,Qatar,2005,52.0
+3358,Qatar,2006,46.4
+3359,Qatar,2007,36.5
+3360,Qatar,2008,43.8
+3361,Qatar,2009,79.7
+3362,Qatar,2010,94.1
+3363,Qatar,2011,96.61
+3364,Qatar,2012,93.57
+3365,Qatar,2013,80.7
+3367,Romania,1991,0.0
+3368,Romania,1993,2457.1
+3369,Romania,1994,4884.5
+3370,Romania,1995,-824.0
+3371,Romania,1996,1422.2
+3372,Romania,1997,618.9
+3373,Romania,1998,2669.8
+3374,Romania,1999,-290.4
+3375,Romania,2000,259.3
+3376,Romania,2001,231.0
+3377,Romania,2002,418.6
+3378,Romania,2003,647.2
+3379,Romania,2004,320.9
+3380,Romania,2005,228.9
+3381,Romania,2006,42.0
+3383,Russia,1990,130278.5
+3384,Russia,1991,51464.5
+3385,Russia,1992,48911.6
+3386,Russia,1993,29777.0
+3387,Russia,1994,25860.1
+3388,Russia,1995,23616.3
+3389,Russia,1996,13981.2
+3390,Russia,1997,11977.2
+3391,Russia,1998,12490.2
+3392,Russia,1999,15337.9
+3393,Russia,2000,25717.0
+3394,Russia,2001,761.5
+3395,Russia,2002,892.3
+3396,Russia,2003,938.4
+3397,Russia,2004,1105.2
+3398,Russia,2005,776.1
+3399,Russia,2006,1189.5
+3400,Russia,2007,1391.3
+3401,Russia,2008,1457.6
+3402,Russia,2009,1203.5
+3403,Russia,2010,1041.8
+3404,Russia,2011,1134.69
+3405,Russia,2012,958.93
+3406,Russia,2013,836.46
+3407,Russia,2014,684.42
+3409,Rwanda,1990,30.3
+3410,Rwanda,1991,29.3
+3411,Rwanda,1992,28.6
+3412,Rwanda,1993,27.7
+3413,Rwanda,1994,20.0
+3414,Rwanda,1995,26.7
+3415,Rwanda,1996,30.4
+3416,Rwanda,1997,34.6
+3417,Rwanda,1998,37.9
+3418,Rwanda,1999,30.4
+3419,Rwanda,2000,30.4
+3420,Rwanda,2001,30.4
+3421,Rwanda,2002,30.4
+3422,Rwanda,2003,30.4
+3423,Rwanda,2004,27.4
+3424,Rwanda,2005,15.3
+3425,Rwanda,2006,15.1
+3426,Rwanda,2007,7.4
+3427,Rwanda,2008,4.8
+3428,Rwanda,2009,3.8
+3429,Rwanda,2010,4.4
+3430,Rwanda,2011,5.48
+3431,Rwanda,2012,3.66
+3432,Rwanda,2013,3.78
+3434,Saint Kitts and Nevis,1991,0.0
+3435,Saint Kitts and Nevis,1992,6.6
+3436,Saint Kitts and Nevis,1993,5.6
+3437,Saint Kitts and Nevis,1994,4.8
+3438,Saint Kitts and Nevis,1995,4.6
+3439,Saint Kitts and Nevis,1996,3.9
+3440,Saint Kitts and Nevis,1997,4.0
+3441,Saint Kitts and Nevis,1998,2.0
+3442,Saint Kitts and Nevis,1999,3.0
+3443,Saint Kitts and Nevis,2000,7.8
+3444,Saint Kitts and Nevis,2001,7.6
+3445,Saint Kitts and Nevis,2002,6.3
+3446,Saint Kitts and Nevis,2003,3.2
+3447,Saint Kitts and Nevis,2004,3.9
+3448,Saint Kitts and Nevis,2005,1.8
+3449,Saint Kitts and Nevis,2006,1.1
+3450,Saint Kitts and Nevis,2007,0.6
+3451,Saint Kitts and Nevis,2008,0.4
+3452,Saint Kitts and Nevis,2009,0.4
+3453,Saint Kitts and Nevis,2010,0.6
+3454,Saint Kitts and Nevis,2011,0.49
+3455,Saint Kitts and Nevis,2012,0.38
+3456,Saint Kitts and Nevis,2013,0.32
+3458,Saint Lucia,1991,0.0
+3459,Saint Lucia,1993,11.5
+3460,Saint Lucia,1994,8.3
+3461,Saint Lucia,1995,8.1
+3462,Saint Lucia,1996,8.7
+3463,Saint Lucia,1997,8.8
+3464,Saint Lucia,1998,6.8
+3465,Saint Lucia,1999,3.8
+3466,Saint Lucia,2000,5.0
+3467,Saint Lucia,2001,4.4
+3468,Saint Lucia,2002,7.7
+3469,Saint Lucia,2003,2.5
+3470,Saint Lucia,2004,0.9
+3471,Saint Lucia,2005,1.5
+3472,Saint Lucia,2006,0.9
+3473,Saint Lucia,2007,0.0
+3474,Saint Lucia,2008,0.1
+3475,Saint Lucia,2009,1.37
+3476,Saint Lucia,2010,0.81
+3477,Saint Lucia,2011,1.07
+3478,Saint Lucia,2012,0.75
+3479,Saint Lucia,2013,0.57
+3480,Saint Lucia,2014,0.83
+3482,Saint Vincent and the Grenadines,1991,0.0
+3483,Saint Vincent and the Grenadines,1995,2.5
+3484,Saint Vincent and the Grenadines,1996,0.8
+3485,Saint Vincent and the Grenadines,1997,2.3
+3486,Saint Vincent and the Grenadines,1998,2.5
+3487,Saint Vincent and the Grenadines,1999,10.5
+3488,Saint Vincent and the Grenadines,2000,6.0
+3489,Saint Vincent and the Grenadines,2001,6.9
+3490,Saint Vincent and the Grenadines,2002,6.4
+3491,Saint Vincent and the Grenadines,2003,3.4
+3492,Saint Vincent and the Grenadines,2004,2.9
+3493,Saint Vincent and the Grenadines,2005,1.5
+3494,Saint Vincent and the Grenadines,2006,1.6
+3495,Saint Vincent and the Grenadines,2007,0.2
+3496,Saint Vincent and the Grenadines,2008,0.1
+3497,Saint Vincent and the Grenadines,2009,0.4
+3498,Saint Vincent and the Grenadines,2010,0.2
+3499,Saint Vincent and the Grenadines,2011,0.3
+3500,Saint Vincent and the Grenadines,2012,0.28
+3501,Saint Vincent and the Grenadines,2013,0.18
+3502,Saint Vincent and the Grenadines,2014,0.09
+3504,Samoa,1991,4.0
+3505,Samoa,1992,4.0
+3506,Samoa,1993,4.0
+3507,Samoa,1994,4.0
+3508,Samoa,1995,4.4
+3509,Samoa,1996,4.5
+3510,Samoa,1997,4.5
+3511,Samoa,1998,2.7
+3512,Samoa,1999,6.4
+3513,Samoa,2000,0.7
+3514,Samoa,2001,2.3
+3515,Samoa,2002,2.6
+3516,Samoa,2003,0.2
+3517,Samoa,2004,0.4
+3518,Samoa,2005,0.2
+3519,Samoa,2006,0.2
+3520,Samoa,2007,0.2
+3521,Samoa,2008,0.1
+3522,Samoa,2009,0.2
+3523,Samoa,2010,0.3
+3524,Samoa,2011,0.29
+3525,Samoa,2012,0.13
+3526,Samoa,2013,0.11
+3527,Samoa,2014,0.08
+3529,San Marino,1991,0.5
+3530,San Marino,2009,0.0
+3531,San Marino,2010,0.0
+3532,San Marino,2011,0.0
+3533,San Marino,2012,0.0
+3534,San Marino,2013,0.0
+3536,Sao Tome and Principe,1990,2.5
+3537,Sao Tome and Principe,1991,3.0
+3538,Sao Tome and Principe,1992,4.1
+3539,Sao Tome and Principe,1993,4.1
+3540,Sao Tome and Principe,1994,4.1
+3541,Sao Tome and Principe,1995,4.8
+3542,Sao Tome and Principe,1996,4.3
+3543,Sao Tome and Principe,1997,5.3
+3544,Sao Tome and Principe,1998,3.9
+3545,Sao Tome and Principe,1999,3.5
+3546,Sao Tome and Principe,2000,4.0
+3547,Sao Tome and Principe,2001,4.2
+3548,Sao Tome and Principe,2002,4.4
+3549,Sao Tome and Principe,2003,4.7
+3550,Sao Tome and Principe,2004,4.1
+3551,Sao Tome and Principe,2005,2.3
+3552,Sao Tome and Principe,2006,1.7
+3553,Sao Tome and Principe,2007,0.5
+3554,Sao Tome and Principe,2008,0.3
+3555,Sao Tome and Principe,2009,4.1
+3556,Sao Tome and Principe,2010,0.2
+3557,Sao Tome and Principe,2011,0.14
+3558,Sao Tome and Principe,2012,0.13
+3559,Sao Tome and Principe,2013,0.1
+3561,Saudi Arabia,1991,0.0
+3562,Saudi Arabia,1992,3850.0
+3563,Saudi Arabia,1993,3515.2
+3564,Saudi Arabia,1994,4989.0
+3565,Saudi Arabia,1995,4444.0
+3566,Saudi Arabia,1996,3662.6
+3567,Saudi Arabia,1997,3027.9
+3568,Saudi Arabia,1998,3207.9
+3569,Saudi Arabia,1999,2194.7
+3570,Saudi Arabia,2000,1942.5
+3571,Saudi Arabia,2001,2055.1
+3572,Saudi Arabia,2002,1926.4
+3573,Saudi Arabia,2003,1476.0
+3574,Saudi Arabia,2004,1604.4
+3575,Saudi Arabia,2005,1145.4
+3576,Saudi Arabia,2006,1612.6
+3577,Saudi Arabia,2007,1615.8
+3578,Saudi Arabia,2008,1643.6
+3579,Saudi Arabia,2009,1648.9
+3580,Saudi Arabia,2010,1611.4
+3581,Saudi Arabia,2011,1780.16
+3582,Saudi Arabia,2012,1943.29
+3583,Saudi Arabia,2013,1440.33
+3584,Saudi Arabia,2014,1448.13
+3586,Senegal,1990,96.8
+3587,Senegal,1991,868.9
+3588,Senegal,1992,313.1
+3589,Senegal,1993,801.9
+3590,Senegal,1994,879.8
+3591,Senegal,1995,855.9
+3592,Senegal,1996,298.4
+3593,Senegal,1997,244.0
+3594,Senegal,1998,137.9
+3595,Senegal,1999,121.8
+3596,Senegal,2000,138.0
+3597,Senegal,2001,120.0
+3598,Senegal,2002,94.8
+3599,Senegal,2003,74.9
+3600,Senegal,2004,65.9
+3601,Senegal,2005,57.6
+3602,Senegal,2006,54.7
+3603,Senegal,2007,46.6
+3604,Senegal,2008,42.9
+3605,Senegal,2009,39.8
+3606,Senegal,2010,37.5
+3607,Senegal,2011,36.14
+3608,Senegal,2012,36.14
+3609,Senegal,2013,7.7
+3611,Serbia,1990,1448.8
+3612,Serbia,1991,1198.8
+3613,Serbia,1992,1079.0
+3614,Serbia,1993,999.0
+3615,Serbia,1994,868.0
+3616,Serbia,1995,873.6
+3617,Serbia,1996,927.2
+3618,Serbia,1997,840.4
+3619,Serbia,1998,551.7
+3620,Serbia,1999,597.8
+3621,Serbia,2000,357.4
+3622,Serbia,2001,317.7
+3623,Serbia,2002,384.9
+3624,Serbia,2003,418.2
+3625,Serbia,2004,297.4
+3626,Serbia,2005,76.5
+3627,Serbia,2006,244.3
+3628,Serbia,2007,63.8
+3629,Serbia,2008,88.0
+3630,Serbia,2009,29.7
+3631,Serbia,2010,7.8
+3632,Serbia,2011,12.54
+3633,Serbia,2012,10.95
+3634,Serbia,2013,8.06
+3635,Serbia,2014,8.03
+3637,Seychelles,1990,3.5
+3638,Seychelles,1991,4.4
+3639,Seychelles,1992,5.5
+3640,Seychelles,1993,11.2
+3641,Seychelles,1994,3.8
+3642,Seychelles,1995,4.0
+3643,Seychelles,1996,2.4
+3644,Seychelles,1997,3.0
+3645,Seychelles,1998,2.7
+3646,Seychelles,1999,1.6
+3647,Seychelles,2000,0.9
+3648,Seychelles,2001,0.8
+3649,Seychelles,2002,166.1
+3650,Seychelles,2003,1.1
+3651,Seychelles,2004,0.5
+3652,Seychelles,2005,0.4
+3653,Seychelles,2006,0.6
+3654,Seychelles,2007,2.3
+3655,Seychelles,2008,0.6
+3656,Seychelles,2009,1.4
+3657,Seychelles,2010,1.3
+3658,Seychelles,2011,0.93
+3659,Seychelles,2012,1.01
+3660,Seychelles,2013,0.55
+3661,Seychelles,2014,0.43
+3663,Sierra Leone,1990,102.5
+3664,Sierra Leone,1991,100.1
+3665,Sierra Leone,1992,97.4
+3666,Sierra Leone,1993,91.2
+3667,Sierra Leone,1994,86.0
+3668,Sierra Leone,1995,84.2
+3669,Sierra Leone,1996,111.5
+3670,Sierra Leone,1997,106.2
+3671,Sierra Leone,1998,101.1
+3672,Sierra Leone,1999,92.9
+3673,Sierra Leone,2000,90.3
+3674,Sierra Leone,2001,105.7
+3675,Sierra Leone,2002,84.4
+3676,Sierra Leone,2003,84.1
+3677,Sierra Leone,2004,87.4
+3678,Sierra Leone,2005,27.2
+3679,Sierra Leone,2006,19.6
+3680,Sierra Leone,2007,12.0
+3681,Sierra Leone,2008,5.8
+3682,Sierra Leone,2009,7.7
+3683,Sierra Leone,2010,1.8
+3684,Sierra Leone,2011,1.87
+3685,Sierra Leone,2012,2.59
+3686,Sierra Leone,2013,0.84
+3688,Singapore,1990,4854.2
+3689,Singapore,1991,1823.2
+3690,Singapore,1992,2354.8
+3691,Singapore,1993,2816.3
+3692,Singapore,1994,1154.3
+3693,Singapore,1995,991.8
+3694,Singapore,1996,173.5
+3695,Singapore,1997,-31.5
+3696,Singapore,1998,123.0
+3697,Singapore,1999,186.8
+3698,Singapore,2000,168.0
+3699,Singapore,2001,157.5
+3700,Singapore,2002,146.7
+3701,Singapore,2003,181.2
+3702,Singapore,2004,215.8
+3703,Singapore,2005,150.7
+3704,Singapore,2006,331.1
+3705,Singapore,2007,162.6
+3706,Singapore,2008,168.7
+3707,Singapore,2009,226.9
+3708,Singapore,2010,207.0
+3709,Singapore,2011,111.56
+3710,Singapore,2012,169.27
+3711,Singapore,2013,116.7
+3713,Slovakia,1991,6.0
+3714,Slovakia,1992,918.1
+3715,Slovakia,1993,1299.1
+3716,Slovakia,1994,634.3
+3717,Slovakia,1995,391.3
+3718,Slovakia,1996,1.2
+3719,Slovakia,1997,10.2
+3720,Slovakia,1998,12.6
+3721,Slovakia,1999,3.7
+3722,Slovakia,2000,5.0
+3723,Slovakia,2001,6.8
+3724,Slovakia,2002,4.5
+3725,Slovakia,2003,3.5
+3727,Slovenia,1990,1336.1
+3728,Slovenia,1991,1152.9
+3729,Slovenia,1992,1207.8
+3730,Slovenia,1993,684.9
+3731,Slovenia,1994,636.3
+3732,Slovenia,1995,419.3
+3733,Slovenia,1996,11.5
+3734,Slovenia,1997,9.0
+3735,Slovenia,1998,7.5
+3736,Slovenia,1999,6.0
+3737,Slovenia,2000,7.8
+3738,Slovenia,2001,9.3
+3739,Slovenia,2002,6.5
+3740,Slovenia,2003,6.6
+3742,Solomon Islands,1990,2.1
+3743,Solomon Islands,1991,2.4
+3744,Solomon Islands,1992,4.5
+3745,Solomon Islands,1993,5.1
+3746,Solomon Islands,1994,0.3
+3747,Solomon Islands,1995,2.4
+3748,Solomon Islands,1996,2.2
+3749,Solomon Islands,1997,2.3
+3750,Solomon Islands,1998,1.1
+3751,Solomon Islands,1999,6.7
+3752,Solomon Islands,2000,0.8
+3753,Solomon Islands,2001,1.1
+3754,Solomon Islands,2002,5.7
+3755,Solomon Islands,2003,1.0
+3756,Solomon Islands,2004,1.5
+3757,Solomon Islands,2005,1.1
+3758,Solomon Islands,2006,2.4
+3759,Solomon Islands,2007,0.9
+3760,Solomon Islands,2008,1.2
+3761,Solomon Islands,2009,1.6
+3762,Solomon Islands,2010,2.3
+3763,Solomon Islands,2011,2.04
+3764,Solomon Islands,2012,1.62
+3765,Solomon Islands,2013,0.17
+3766,Solomon Islands,2014,0.26
+3768,Somalia,1990,269.6
+3769,Somalia,1991,58.7
+3770,Somalia,1992,32.2
+3771,Somalia,1993,38.2
+3772,Somalia,1994,45.0
+3773,Somalia,1995,260.1
+3774,Somalia,1996,259.4
+3775,Somalia,1997,260.8
+3776,Somalia,1998,266.9
+3777,Somalia,1999,69.6
+3778,Somalia,2000,87.7
+3779,Somalia,2001,111.2
+3780,Somalia,2002,124.1
+3781,Somalia,2003,135.1
+3782,Somalia,2004,122.1
+3783,Somalia,2005,111.9
+3784,Somalia,2006,107.3
+3785,Somalia,2007,97.0
+3786,Somalia,2008,24.7
+3787,Somalia,2009,50.5
+3788,Somalia,2010,45.3
+3789,Somalia,2011,45.2
+3790,Somalia,2012,17.63
+3791,Somalia,2013,16.46
+3793,South Africa,1990,18726.3
+3794,South Africa,1991,7125.3
+3795,South Africa,1992,10327.9
+3796,South Africa,1993,6405.6
+3797,South Africa,1994,3390.5
+3798,South Africa,1995,2496.6
+3799,South Africa,1996,798.5
+3800,South Africa,1997,953.7
+3801,South Africa,1998,1019.9
+3802,South Africa,1999,975.1
+3803,South Africa,2000,815.3
+3804,South Africa,2001,723.6
+3805,South Africa,2002,848.8
+3806,South Africa,2003,915.2
+3807,South Africa,2004,836.1
+3808,South Africa,2005,716.1
+3809,South Africa,2006,552.6
+3810,South Africa,2007,576.4
+3811,South Africa,2008,778.0
+3812,South Africa,2009,730.1
+3813,South Africa,2010,780.1
+3814,South Africa,2011,667.25
+3815,South Africa,2012,575.44
+3816,South Africa,2013,426.44
+3818,South America,1990,50388.9
+3819,South America,1991,28459.1
+3820,South America,1992,43660.8
+3821,South America,1993,43377.3
+3822,South America,1994,26541.7
+3823,South America,1995,33686.1
+3824,South America,1996,24767.5
+3825,South America,1997,17125.7
+3826,South America,1998,21626.8
+3827,South America,1999,26493.0
+3828,South America,2000,20913.9
+3829,South America,2001,17298.2
+3830,South America,2002,10039.9
+3831,South America,2003,11365.5
+3832,South America,2004,11361.8
+3833,South America,2005,8295.8
+3834,South America,2006,7912.4
+3835,South America,2007,3881.2
+3836,South America,2008,3024.2
+3837,South America,2009,2791.54
+3838,South America,2010,2840.29
+3839,South America,2011,2654.48
+3840,South America,2012,3180.96
+3841,South America,2013,2327.72
+3842,South America,2014,1397.89
+3844,South Asia,1990,3274.5
+3845,South Asia,1991,9001.0
+3846,South Asia,1992,20520.3
+3847,South Asia,1993,27270.8
+3848,South Asia,1994,26001.9
+3849,South Asia,1995,19011.0
+3850,South Asia,1996,24310.6
+3851,South Asia,1997,28703.2
+3852,South Asia,1998,23719.9
+3853,South Asia,1999,30537.4
+3854,South Asia,2000,28161.4
+3855,South Asia,2001,23659.6
+3856,South Asia,2002,26531.1
+3857,South Asia,2003,22944.3
+3858,South Asia,2004,18610.6
+3859,South Asia,2005,7971.1
+3860,South Asia,2006,7598.7
+3861,South Asia,2007,4407.9
+3862,South Asia,2008,4056.9
+3863,South Asia,2009,1953.8
+3864,South Asia,2010,2780.4
+3865,South Asia,2011,2320.14
+3866,South Asia,2012,2448.06
+3867,South Asia,2013,1661.09
+3869,South East Asia,1991,18842.3
+3870,South East Asia,1992,27934.3
+3871,South East Asia,1994,26945.6
+3872,South East Asia,1995,27958.8
+3873,South East Asia,1996,24045.0
+3874,South East Asia,1997,21113.0
+3875,South East Asia,1998,16981.5
+3876,South East Asia,1999,16341.9
+3877,South East Asia,2000,16830.7
+3878,South East Asia,2001,15746.0
+3879,South East Asia,2002,13987.3
+3880,South East Asia,2003,12210.0
+3881,South East Asia,2004,10668.5
+3882,South East Asia,2005,8056.4
+3883,South East Asia,2006,4607.1
+3884,South East Asia,2007,3374.8
+3885,South East Asia,2008,2934.7
+3886,South East Asia,2009,2941.8
+3887,South East Asia,2010,2832.5
+3888,South East Asia,2011,2255.01
+3889,South East Asia,2012,2902.11
+3890,South East Asia,2013,2148.66
+3891,South East Asia,2014,1135.01
+3893,South Korea,1991,0.0
+3894,South Korea,1992,41823.2
+3895,South Korea,1993,25913.8
+3896,South Korea,1994,26222.6
+3897,South Korea,1995,15083.1
+3898,South Korea,1996,13888.2
+3899,South Korea,1997,15258.7
+3900,South Korea,1998,8765.3
+3901,South Korea,1999,11574.3
+3902,South Korea,2000,13746.1
+3903,South Korea,2001,10382.3
+3904,South Korea,2002,11745.9
+3905,South Korea,2003,9447.0
+3906,South Korea,2004,7472.3
+3907,South Korea,2005,5337.0
+3908,South Korea,2006,6464.1
+3909,South Korea,2007,4557.2
+3910,South Korea,2008,4052.4
+3911,South Korea,2009,4272.3
+3912,South Korea,2010,2113.9
+3913,South Korea,2011,2119.34
+3914,South Korea,2012,2088.17
+3915,South Korea,2013,1893.13
+3917,South Pacific,1991,91.8
+3918,South Pacific,1992,58.9
+3919,South Pacific,1993,59.2
+3920,South Pacific,1994,63.8
+3921,South Pacific,1995,93.6
+3922,South Pacific,1996,109.9
+3923,South Pacific,1997,68.5
+3924,South Pacific,1998,153.5
+3925,South Pacific,1999,263.3
+3926,South Pacific,2000,129.2
+3927,South Pacific,2001,98.8
+3928,South Pacific,2002,57.0
+3929,South Pacific,2003,33.0
+3930,South Pacific,2004,31.5
+3931,South Pacific,2005,26.8
+3932,South Pacific,2006,15.5
+3933,South Pacific,2007,16.7
+3934,South Pacific,2008,9.5
+3935,South Pacific,2009,13.3
+3936,South Pacific,2010,16.6
+3937,South Pacific,2011,19.19
+3938,South Pacific,2012,19.93
+3939,South Pacific,2013,11.39
+3941,Southern Africa,1991,7644.3
+3942,Southern Africa,1993,7653.4
+3943,Southern Africa,1994,4976.0
+3944,Southern Africa,1995,4125.5
+3945,Southern Africa,1996,2467.7
+3946,Southern Africa,1997,2661.2
+3947,Southern Africa,1998,2803.5
+3948,Southern Africa,1999,2087.4
+3949,Southern Africa,2000,1870.6
+3950,Southern Africa,2001,1984.9
+3951,Southern Africa,2002,1527.1
+3952,Southern Africa,2003,1518.3
+3953,Southern Africa,2004,1376.7
+3954,Southern Africa,2005,1139.2
+3955,Southern Africa,2006,923.8
+3956,Southern Africa,2007,775.5
+3957,Southern Africa,2008,912.7
+3958,Southern Africa,2009,870.58
+3959,Southern Africa,2010,887.7
+3960,Southern Africa,2011,767.81
+3961,Southern Africa,2012,658.78
+3962,Southern Africa,2013,503.69
+3964,Sri Lanka,1990,218.2
+3965,Sri Lanka,1991,215.2
+3966,Sri Lanka,1992,240.4
+3967,Sri Lanka,1993,332.5
+3968,Sri Lanka,1994,377.7
+3969,Sri Lanka,1995,552.2
+3970,Sri Lanka,1996,566.2
+3971,Sri Lanka,1997,355.4
+3972,Sri Lanka,1998,314.6
+3973,Sri Lanka,1999,273.5
+3974,Sri Lanka,2000,252.0
+3975,Sri Lanka,2001,227.5
+3976,Sri Lanka,2002,227.4
+3977,Sri Lanka,2003,212.8
+3978,Sri Lanka,2004,198.8
+3979,Sri Lanka,2005,163.6
+3980,Sri Lanka,2006,117.7
+3981,Sri Lanka,2007,77.6
+3982,Sri Lanka,2008,10.3
+3983,Sri Lanka,2009,13.5
+3984,Sri Lanka,2010,14.5
+3985,Sri Lanka,2011,16.33
+3986,Sri Lanka,2012,18.02
+3987,Sri Lanka,2013,13.37
+3988,Sri Lanka,2014,12.89
+3990,Sudan,1991,612.2
+3991,Sudan,1993,333.7
+3992,Sudan,1994,355.8
+3993,Sudan,1995,643.8
+3994,Sudan,1996,436.4
+3995,Sudan,1997,314.8
+3996,Sudan,1998,299.7
+3997,Sudan,1999,299.7
+3998,Sudan,2000,296.7
+3999,Sudan,2001,271.2
+4000,Sudan,2002,258.2
+4001,Sudan,2003,218.9
+4002,Sudan,2004,242.7
+4003,Sudan,2005,227.2
+4004,Sudan,2006,163.9
+4005,Sudan,2007,106.4
+4006,Sudan,2008,92.8
+4007,Sudan,2009,73.4
+4008,Sudan,2010,56.2
+4009,Sudan,2011,56.2
+4010,Sudan,2012,60.11
+4011,Sudan,2013,51.94
+4013,Suriname,1991,43.1
+4014,Suriname,1995,46.0
+4015,Suriname,1996,46.0
+4016,Suriname,1997,47.0
+4017,Suriname,1998,47.0
+4018,Suriname,1999,48.0
+4019,Suriname,2000,49.0
+4020,Suriname,2001,51.0
+4021,Suriname,2002,51.0
+4022,Suriname,2003,12.4
+4023,Suriname,2004,9.6
+4024,Suriname,2005,8.5
+4025,Suriname,2006,1.4
+4026,Suriname,2007,2.7
+4027,Suriname,2008,0.7
+4028,Suriname,2009,2.7
+4029,Suriname,2010,1.3
+4030,Suriname,2011,4.01
+4031,Suriname,2012,1.51
+4032,Suriname,2013,1.24
+4034,Sweden,1990,2621.3
+4035,Sweden,1991,1648.3
+4036,Sweden,1992,1691.9
+4037,Sweden,1993,1051.1
+4038,Sweden,1994,418.2
+4040,Switzerland,1990,3393.6
+4041,Switzerland,1991,2883.0
+4042,Switzerland,1992,1902.8
+4043,Switzerland,1993,1585.9
+4044,Switzerland,1994,950.2
+4045,Switzerland,1995,380.7
+4046,Switzerland,1996,13.4
+4047,Switzerland,1997,11.0
+4048,Switzerland,1998,15.9
+4049,Switzerland,1999,25.4
+4050,Switzerland,2000,30.2
+4051,Switzerland,2001,27.2
+4052,Switzerland,2002,26.2
+4053,Switzerland,2003,16.2
+4054,Switzerland,2004,2.1
+4055,Switzerland,2005,-16.1
+4056,Switzerland,2006,10.6
+4057,Switzerland,2007,9.5
+4058,Switzerland,2008,10.0
+4059,Switzerland,2009,12.0
+4060,Switzerland,2010,1.6
+4061,Switzerland,2011,1.35
+4062,Switzerland,2012,0.9
+4063,Switzerland,2013,1.4
+4065,Syria,1990,1275.4
+4066,Syria,1991,1398.8
+4067,Syria,1992,1492.5
+4068,Syria,1993,1578.5
+4069,Syria,1994,2846.5
+4070,Syria,1995,3007.5
+4071,Syria,1996,3015.0
+4072,Syria,1997,2756.2
+4073,Syria,1998,1741.5
+4074,Syria,1999,1808.5
+4075,Syria,2000,1712.5
+4076,Syria,2001,1988.9
+4077,Syria,2002,1754.1
+4078,Syria,2003,1654.1
+4079,Syria,2004,1302.2
+4080,Syria,2005,1100.3
+4081,Syria,2006,710.8
+4082,Syria,2007,372.3
+4083,Syria,2008,289.8
+4084,Syria,2009,230.7
+4085,Syria,2010,167.5
+4086,Syria,2011,176.57
+4087,Syria,2012,83.18
+4088,Syria,2013,28.03
+4090,Tajikistan,1991,93.3
+4091,Tajikistan,1995,32.7
+4092,Tajikistan,1996,38.2
+4093,Tajikistan,1997,51.6
+4094,Tajikistan,1998,60.1
+4095,Tajikistan,1999,52.4
+4096,Tajikistan,2000,28.7
+4097,Tajikistan,2001,29.4
+4098,Tajikistan,2002,12.6
+4099,Tajikistan,2003,5.9
+4100,Tajikistan,2004,3.1
+4101,Tajikistan,2005,3.5
+4102,Tajikistan,2006,3.6
+4103,Tajikistan,2007,3.8
+4104,Tajikistan,2008,3.9
+4105,Tajikistan,2009,2.6
+4106,Tajikistan,2010,2.8
+4107,Tajikistan,2011,2.9
+4108,Tajikistan,2012,3.03
+4109,Tajikistan,2013,2.28
+4111,Tanzania,1991,0.0
+4112,Tanzania,1993,188.3
+4113,Tanzania,1994,266.1
+4114,Tanzania,1995,284.1
+4115,Tanzania,1996,297.5
+4116,Tanzania,1997,225.2
+4117,Tanzania,1998,131.8
+4118,Tanzania,1999,99.6
+4119,Tanzania,2000,215.5
+4120,Tanzania,2001,131.2
+4121,Tanzania,2002,71.5
+4122,Tanzania,2003,148.2
+4123,Tanzania,2004,98.8
+4124,Tanzania,2005,104.3
+4125,Tanzania,2006,59.8
+4126,Tanzania,2007,34.2
+4127,Tanzania,2008,22.3
+4128,Tanzania,2009,11.7
+4129,Tanzania,2010,2.0
+4130,Tanzania,2011,9.97
+4131,Tanzania,2012,9.45
+4132,Tanzania,2013,1.64
+4134,Thailand,1990,6984.2
+4135,Thailand,1991,9683.8
+4136,Thailand,1992,10473.1
+4137,Thailand,1993,9292.6
+4138,Thailand,1994,7766.3
+4139,Thailand,1995,9320.9
+4140,Thailand,1996,6648.7
+4141,Thailand,1997,5471.8
+4142,Thailand,1998,4739.4
+4143,Thailand,1999,4971.7
+4144,Thailand,2000,5104.6
+4145,Thailand,2001,5204.7
+4146,Thailand,2002,3612.5
+4147,Thailand,2003,3152.1
+4148,Thailand,2004,2528.5
+4149,Thailand,2005,2317.3
+4150,Thailand,2006,1464.4
+4151,Thailand,2007,1380.6
+4152,Thailand,2008,1197.5
+4153,Thailand,2009,1012.0
+4154,Thailand,2010,1088.8
+4155,Thailand,2011,832.04
+4156,Thailand,2012,1171.64
+4157,Thailand,2013,863.32
+4159,Timor,1991,0.3
+4160,Timor,1995,40.5
+4161,Timor,1996,41.0
+4162,Timor,1997,33.6
+4163,Timor,1998,25.9
+4164,Timor,1999,23.6
+4165,Timor,2000,21.6
+4166,Timor,2007,2.7
+4167,Timor,2009,0.9
+4168,Timor,2010,0.5
+4169,Timor,2011,0.15
+4170,Timor,2012,0.21
+4171,Timor,2013,0.29
+4172,Timor,2014,0.31
+4174,Togo,1990,41.0
+4175,Togo,1991,42.8
+4176,Togo,1992,44.5
+4177,Togo,1993,46.4
+4178,Togo,1994,48.3
+4179,Togo,1995,50.4
+4180,Togo,1996,33.7
+4181,Togo,1997,35.2
+4182,Togo,1998,36.7
+4183,Togo,1999,41.7
+4184,Togo,2000,41.0
+4185,Togo,2001,37.9
+4186,Togo,2002,35.3
+4187,Togo,2003,37.7
+4188,Togo,2004,30.1
+4189,Togo,2005,21.7
+4190,Togo,2006,12.7
+4191,Togo,2007,9.9
+4192,Togo,2008,9.4
+4193,Togo,2009,20.3
+4194,Togo,2010,20.6
+4195,Togo,2011,19.14
+4196,Togo,2012,19.8
+4197,Togo,2013,18.98
+4198,Togo,2014,17.88
+4200,Tonga,1991,0.4
+4201,Tonga,1995,2.2
+4202,Tonga,1996,1.4
+4203,Tonga,1997,1.4
+4204,Tonga,1998,0.0
+4205,Tonga,1999,83.4
+4206,Tonga,2000,0.5
+4207,Tonga,2001,0.8
+4208,Tonga,2002,1.0
+4209,Tonga,2003,0.3
+4210,Tonga,2004,0.1
+4211,Tonga,2005,0.0
+4212,Tonga,2006,0.0
+4213,Tonga,2007,0.1
+4214,Tonga,2008,0.2
+4215,Tonga,2009,0.1
+4216,Tonga,2010,0.1
+4217,Tonga,2011,0.07
+4218,Tonga,2012,0.05
+4219,Tonga,2013,0.04
+4220,Tonga,2014,0.02
+4222,Trinidad and Tobago,1990,196.6
+4223,Trinidad and Tobago,1991,168.7
+4224,Trinidad and Tobago,1992,137.1
+4225,Trinidad and Tobago,1993,116.6
+4226,Trinidad and Tobago,1994,157.7
+4227,Trinidad and Tobago,1995,163.7
+4228,Trinidad and Tobago,1996,170.0
+4229,Trinidad and Tobago,1997,190.7
+4230,Trinidad and Tobago,1998,214.8
+4231,Trinidad and Tobago,1999,100.2
+4232,Trinidad and Tobago,2000,109.1
+4233,Trinidad and Tobago,2001,90.7
+4234,Trinidad and Tobago,2002,93.9
+4235,Trinidad and Tobago,2003,74.4
+4236,Trinidad and Tobago,2004,54.9
+4237,Trinidad and Tobago,2005,52.1
+4238,Trinidad and Tobago,2006,73.0
+4239,Trinidad and Tobago,2007,45.8
+4240,Trinidad and Tobago,2008,56.8
+4241,Trinidad and Tobago,2009,38.5
+4242,Trinidad and Tobago,2010,54.1
+4243,Trinidad and Tobago,2011,34.34
+4244,Trinidad and Tobago,2012,88.9
+4245,Trinidad and Tobago,2013,39.5
+4246,Trinidad and Tobago,2014,26.55
+4248,Tunisia,1990,742.2
+4249,Tunisia,1991,1084.8
+4250,Tunisia,1992,646.8
+4251,Tunisia,1993,698.5
+4252,Tunisia,1994,523.1
+4253,Tunisia,1995,811.6
+4254,Tunisia,1996,1011.1
+4255,Tunisia,1997,1155.6
+4256,Tunisia,1998,974.7
+4257,Tunisia,1999,739.4
+4258,Tunisia,2000,625.6
+4259,Tunisia,2001,656.1
+4260,Tunisia,2002,552.5
+4261,Tunisia,2003,440.1
+4262,Tunisia,2004,355.5
+4263,Tunisia,2005,284.5
+4264,Tunisia,2006,100.5
+4265,Tunisia,2007,55.6
+4266,Tunisia,2008,59.2
+4267,Tunisia,2009,67.5
+4268,Tunisia,2010,43.6
+4269,Tunisia,2011,40.5
+4270,Tunisia,2012,39.29
+4271,Tunisia,2013,38.71
+4273,Turkey,1990,4361.0
+4274,Turkey,1991,3720.6
+4275,Turkey,1992,4628.4
+4276,Turkey,1993,5050.5
+4277,Turkey,1994,3170.1
+4278,Turkey,1995,4606.9
+4279,Turkey,1996,4904.2
+4280,Turkey,1997,4655.4
+4281,Turkey,1998,4960.4
+4282,Turkey,1999,2439.0
+4283,Turkey,2000,1592.0
+4284,Turkey,2001,1154.9
+4285,Turkey,2002,1291.9
+4286,Turkey,2003,1048.8
+4287,Turkey,2004,867.9
+4288,Turkey,2005,774.6
+4289,Turkey,2006,901.1
+4290,Turkey,2007,937.2
+4291,Turkey,2008,762.5
+4292,Turkey,2009,609.9
+4293,Turkey,2010,493.03
+4294,Turkey,2011,427.23
+4295,Turkey,2012,318.18
+4296,Turkey,2013,147.02
+4298,Turkmenistan,1990,145.2
+4299,Turkmenistan,1991,100.6
+4300,Turkmenistan,1992,70.0
+4301,Turkmenistan,1993,63.7
+4302,Turkmenistan,1994,58.6
+4303,Turkmenistan,1995,56.7
+4304,Turkmenistan,1996,31.1
+4305,Turkmenistan,1997,27.2
+4306,Turkmenistan,1998,40.8
+4307,Turkmenistan,1999,19.8
+4308,Turkmenistan,2000,23.6
+4309,Turkmenistan,2001,62.1
+4310,Turkmenistan,2002,10.9
+4311,Turkmenistan,2003,63.6
+4312,Turkmenistan,2004,59.2
+4313,Turkmenistan,2005,27.3
+4314,Turkmenistan,2006,22.4
+4315,Turkmenistan,2007,8.3
+4316,Turkmenistan,2008,10.1
+4317,Turkmenistan,2009,13.1
+4318,Turkmenistan,2010,9.6
+4319,Turkmenistan,2011,5.83
+4320,Turkmenistan,2012,7.73
+4321,Turkmenistan,2013,4.16
+4322,Turkmenistan,2014,2.7
+4324,Tuvalu,1991,0.0
+4325,Tuvalu,1993,0.3
+4326,Tuvalu,1994,0.3
+4327,Tuvalu,1995,0.3
+4328,Tuvalu,1996,0.4
+4329,Tuvalu,1997,0.3
+4330,Tuvalu,1998,0.3
+4331,Tuvalu,1999,0.2
+4332,Tuvalu,2000,0.0
+4333,Tuvalu,2001,0.0
+4334,Tuvalu,2002,0.0
+4335,Tuvalu,2003,0.0
+4336,Tuvalu,2004,0.0
+4337,Tuvalu,2005,0.0
+4338,Tuvalu,2006,0.0
+4339,Tuvalu,2007,0.0
+4340,Tuvalu,2008,0.0
+4341,Tuvalu,2009,0.1
+4342,Tuvalu,2010,0.1
+4343,Tuvalu,2011,0.01
+4344,Tuvalu,2012,0.02
+4345,Tuvalu,2013,0.0
+4346,Tuvalu,2014,0.0
+4348,Uganda,1990,14.4
+4349,Uganda,1991,14.9
+4350,Uganda,1992,15.8
+4351,Uganda,1993,21.0
+4352,Uganda,1994,10.1
+4353,Uganda,1995,14.2
+4354,Uganda,1996,15.7
+4355,Uganda,1997,24.5
+4356,Uganda,1998,24.7
+4357,Uganda,1999,24.5
+4358,Uganda,2000,30.5
+4359,Uganda,2001,37.6
+4360,Uganda,2002,44.8
+4361,Uganda,2003,28.6
+4362,Uganda,2004,24.3
+4363,Uganda,2005,6.5
+4364,Uganda,2006,0.0
+4365,Uganda,2007,0.0
+4366,Uganda,2008,0.0
+4367,Uganda,2009,0.0
+4368,Uganda,2010,0.3
+4369,Uganda,2011,0.12
+4370,Uganda,2012,0.05
+4371,Uganda,2013,0.0
+4373,Ukraine,1990,4555.7
+4374,Ukraine,1991,4555.7
+4375,Ukraine,1992,3471.7
+4376,Ukraine,1993,1726.0
+4377,Ukraine,1994,2470.7
+4378,Ukraine,1995,1172.6
+4379,Ukraine,1996,1042.5
+4380,Ukraine,1997,-756.3
+4381,Ukraine,1998,3935.3
+4382,Ukraine,1999,956.8
+4383,Ukraine,2000,864.1
+4384,Ukraine,2001,1099.6
+4385,Ukraine,2002,145.5
+4386,Ukraine,2003,158.2
+4387,Ukraine,2004,164.3
+4388,Ukraine,2005,133.5
+4389,Ukraine,2006,97.3
+4390,Ukraine,2007,93.5
+4391,Ukraine,2008,75.0
+4392,Ukraine,2009,63.5
+4393,Ukraine,2010,86.9
+4394,Ukraine,2011,93.29
+4395,Ukraine,2012,93.29
+4396,Ukraine,2013,59.4
+4398,United Arab Emirates,1990,850.2
+4399,United Arab Emirates,1991,1029.2
+4400,United Arab Emirates,1992,1063.7
+4401,United Arab Emirates,1993,1060.8
+4402,United Arab Emirates,1994,645.5
+4403,United Arab Emirates,1995,717.4
+4404,United Arab Emirates,1996,616.0
+4405,United Arab Emirates,1997,712.6
+4406,United Arab Emirates,1998,856.8
+4407,United Arab Emirates,1999,671.0
+4408,United Arab Emirates,2000,625.8
+4409,United Arab Emirates,2001,637.5
+4410,United Arab Emirates,2002,624.2
+4411,United Arab Emirates,2003,612.0
+4412,United Arab Emirates,2004,645.3
+4413,United Arab Emirates,2005,659.4
+4414,United Arab Emirates,2006,541.1
+4415,United Arab Emirates,2007,512.8
+4416,United Arab Emirates,2008,560.7
+4417,United Arab Emirates,2009,559.5
+4418,United Arab Emirates,2010,583.6
+4419,United Arab Emirates,2011,641.8
+4420,United Arab Emirates,2012,692.62
+4421,United Arab Emirates,2013,539.4
+4423,United States,1990,232862.2
+4424,United States,1991,223032.2
+4425,United States,1992,203694.4
+4426,United States,1993,192481.3
+4427,United States,1994,102786.1
+4428,United States,1995,48420.8
+4429,United States,1996,14886.7
+4430,United States,1997,-2980.6
+4431,United States,1998,-2916.6
+4432,United States,1999,13034.7
+4433,United States,2000,3971.9
+4434,United States,2001,22122.2
+4435,United States,2002,16206.7
+4436,United States,2003,12418.7
+4437,United States,2004,13807.6
+4438,United States,2005,10901.2
+4439,United States,2006,10850.0
+4440,United States,2007,8520.6
+4441,United States,2008,6236.8
+4442,United States,2009,4285.2
+4443,United States,2010,2332.5
+4444,United States,2011,1629.78
+4445,United States,2012,-67.8
+4446,United States,2013,714.38
+4448,Uruguay,1991,464.8
+4449,Uruguay,1992,326.8
+4450,Uruguay,1993,241.1
+4451,Uruguay,1994,339.7
+4452,Uruguay,1995,258.4
+4453,Uruguay,1996,187.1
+4454,Uruguay,1997,223.5
+4455,Uruguay,1998,218.4
+4456,Uruguay,1999,143.1
+4457,Uruguay,2000,141.3
+4458,Uruguay,2001,152.0
+4459,Uruguay,2002,100.9
+4460,Uruguay,2003,129.4
+4461,Uruguay,2004,115.3
+4462,Uruguay,2005,119.1
+4463,Uruguay,2006,106.1
+4464,Uruguay,2007,55.7
+4465,Uruguay,2008,53.9
+4466,Uruguay,2009,36.8
+4467,Uruguay,2010,30.6
+4468,Uruguay,2011,23.62
+4469,Uruguay,2012,34.05
+4470,Uruguay,2013,15.47
+4471,Uruguay,2014,17.8
+4473,Uzbekistan,1991,4.4
+4474,Uzbekistan,1993,675.7
+4475,Uzbekistan,1994,278.7
+4476,Uzbekistan,1995,304.4
+4477,Uzbekistan,1996,274.4
+4478,Uzbekistan,1997,57.9
+4479,Uzbekistan,1998,120.1
+4480,Uzbekistan,1999,53.1
+4481,Uzbekistan,2000,44.2
+4482,Uzbekistan,2001,18.1
+4483,Uzbekistan,2002,0.8
+4484,Uzbekistan,2003,2.3
+4485,Uzbekistan,2004,1.8
+4486,Uzbekistan,2005,3.5
+4487,Uzbekistan,2006,3.8
+4488,Uzbekistan,2007,0.1
+4489,Uzbekistan,2008,2.3
+4490,Uzbekistan,2009,1.8
+4491,Uzbekistan,2010,0.9
+4492,Uzbekistan,2011,4.14
+4493,Uzbekistan,2012,2.44
+4494,Uzbekistan,2013,4.58
+4496,Vanuatu,1991,0.0
+4497,Vanuatu,1995,0.5
+4498,Vanuatu,1996,0.0
+4499,Vanuatu,1997,0.4
+4500,Vanuatu,1998,0.0
+4501,Vanuatu,1999,0.0
+4502,Vanuatu,2000,0.0
+4503,Vanuatu,2001,0.0
+4504,Vanuatu,2002,0.0
+4505,Vanuatu,2003,0.0
+4506,Vanuatu,2004,0.0
+4507,Vanuatu,2005,0.0
+4508,Vanuatu,2006,0.1
+4509,Vanuatu,2007,0.6
+4510,Vanuatu,2008,1.0
+4511,Vanuatu,2009,0.1
+4512,Vanuatu,2010,0.5
+4513,Vanuatu,2011,0.08
+4514,Vanuatu,2012,0.06
+4515,Vanuatu,2013,0.06
+4516,Vanuatu,2014,0.04
+4518,Vatican,1991,0.0
+4519,Vatican,2008,0.1
+4520,Vatican,2009,0.0
+4521,Vatican,2010,0.0
+4522,Vatican,2011,0.02
+4523,Vatican,2012,0.0
+4524,Vatican,2013,0.0
+4525,Vatican,2014,0.0
+4527,Venezuela,1990,4808.6
+4528,Venezuela,1991,4262.5
+4529,Venezuela,1992,4661.9
+4530,Venezuela,1993,3885.2
+4531,Venezuela,1994,3274.0
+4532,Venezuela,1995,5074.8
+4533,Venezuela,1996,3139.9
+4534,Venezuela,1997,3842.2
+4535,Venezuela,1998,3294.2
+4536,Venezuela,1999,5316.6
+4537,Venezuela,2000,2905.1
+4538,Venezuela,2001,2788.6
+4539,Venezuela,2002,1653.0
+4540,Venezuela,2003,1390.7
+4541,Venezuela,2004,3174.2
+4542,Venezuela,2005,1946.0
+4543,Venezuela,2006,2626.4
+4544,Venezuela,2007,146.0
+4545,Venezuela,2008,133.5
+4546,Venezuela,2009,165.3
+4547,Venezuela,2010,197.7
+4548,Venezuela,2011,165.07
+4549,Venezuela,2012,246.14
+4550,Venezuela,2013,139.89
+4552,Vietnam,1991,430.0
+4553,Vietnam,1994,476.5
+4554,Vietnam,1995,700.1
+4555,Vietnam,1996,748.6
+4556,Vietnam,1997,790.0
+4557,Vietnam,1998,565.0
+4558,Vietnam,1999,466.2
+4559,Vietnam,2000,369.4
+4560,Vietnam,2001,353.7
+4561,Vietnam,2002,447.4
+4562,Vietnam,2003,404.6
+4563,Vietnam,2004,419.3
+4564,Vietnam,2005,458.7
+4565,Vietnam,2006,401.1
+4566,Vietnam,2007,298.2
+4567,Vietnam,2008,277.5
+4568,Vietnam,2009,289.3
+4569,Vietnam,2010,311.7
+4570,Vietnam,2011,292.87
+4571,Vietnam,2012,269.93
+4572,Vietnam,2013,252.85
+4573,Vietnam,2014,236.72
+4575,West Asia,1991,3468.2
+4576,West Asia,1995,15510.6
+4577,West Asia,1996,14077.5
+4578,West Asia,1997,13068.7
+4579,West Asia,1998,10232.7
+4580,West Asia,1999,8671.0
+4581,West Asia,2000,8299.0
+4582,West Asia,2006,5979.3
+4583,West Asia,2007,5534.0
+4584,West Asia,2008,5364.1
+4585,West Asia,2009,4096.4
+4586,West Asia,2010,3473.39
+4587,West Asia,2011,3598.22
+4588,West Asia,2012,3826.31
+4589,West Asia,2013,2946.12
+4591,Western Africa,1990,1504.4
+4592,Western Africa,1991,2675.8
+4593,Western Africa,1992,1884.7
+4594,Western Africa,1993,3588.9
+4595,Western Africa,1994,3613.0
+4596,Western Africa,1995,3560.9
+4597,Western Africa,1996,6394.2
+4598,Western Africa,1997,6574.9
+4599,Western Africa,1998,6495.7
+4600,Western Africa,1999,5751.0
+4601,Western Africa,2000,5665.9
+4602,Western Africa,2001,5071.7
+4603,Western Africa,2002,4578.8
+4604,Western Africa,2003,3695.6
+4605,Western Africa,2004,3078.6
+4606,Western Africa,2005,896.4
+4607,Western Africa,2006,906.0
+4608,Western Africa,2007,436.4
+4609,Western Africa,2008,589.8
+4610,Western Africa,2009,701.8
+4611,Western Africa,2010,672.0
+4612,Western Africa,2011,686.36
+4613,Western Africa,2012,729.81
+4614,Western Africa,2013,538.78
+4616,Western Indian Ocean,1991,6.5
+4617,Western Indian Ocean,1995,54.8
+4618,Western Indian Ocean,1996,65.9
+4619,Western Indian Ocean,1997,150.5
+4620,Western Indian Ocean,1998,79.1
+4621,Western Indian Ocean,1999,55.9
+4622,Western Indian Ocean,2000,45.5
+4623,Western Indian Ocean,2001,34.5
+4624,Western Indian Ocean,2002,191.2
+4625,Western Indian Ocean,2003,26.6
+4626,Western Indian Ocean,2004,27.1
+4627,Western Indian Ocean,2005,20.1
+4628,Western Indian Ocean,2006,14.1
+4629,Western Indian Ocean,2007,15.5
+4630,Western Indian Ocean,2008,10.6
+4631,Western Indian Ocean,2009,45.2
+4632,Western Indian Ocean,2010,23.5
+4633,Western Indian Ocean,2011,26.37
+4634,Western Indian Ocean,2012,24.21
+4635,Western Indian Ocean,2013,22.06
+4637,World,1990,738815.6
+4638,World,1991,673441.2
+4639,World,1992,687962.2
+4640,World,1993,626345.1
+4641,World,1994,433194.8
+4642,World,1995,387046.8
+4643,World,1996,267992.5
+4644,World,1997,248869.7
+4645,World,1998,318250.4
+4646,World,1999,268225.8
+4647,World,2000,252201.3
+4648,World,2001,207099.7
+4649,World,2002,169428.8
+4650,World,2003,164590.4
+4651,World,2004,132105.3
+4652,World,2005,95591.9
+4653,World,2006,87156.2
+4654,World,2007,67083.6
+4655,World,2008,54077.3
+4656,World,2009,50818.45
+4657,World,2010,45527.99
+4658,World,2011,42618.99
+4659,World,2012,43003.63
+4660,World,2013,32450.38
+4661,World,2014,6922.26
+4663,Yemen,1991,27.0
+4664,Yemen,1995,2563.8
+4665,Yemen,1996,1925.4
+4666,Yemen,1997,1581.1
+4667,Yemen,1998,1279.6
+4668,Yemen,1999,1238.7
+4669,Yemen,2000,1253.4
+4670,Yemen,2001,1236.2
+4671,Yemen,2002,1135.8
+4672,Yemen,2003,873.6
+4673,Yemen,2004,856.8
+4674,Yemen,2005,818.3
+4675,Yemen,2006,535.3
+4676,Yemen,2007,427.5
+4677,Yemen,2008,431.0
+4678,Yemen,2009,314.6
+4679,Yemen,2010,178.19
+4680,Yemen,2011,89.98
+4681,Yemen,2012,112.94
+4682,Yemen,2013,127.16
+4684,Zambia,1990,34.6
+4685,Zambia,1991,26.3
+4686,Zambia,1992,31.8
+4687,Zambia,1993,31.2
+4688,Zambia,1994,64.0
+4689,Zambia,1995,50.2
+4690,Zambia,1996,60.9
+4691,Zambia,1997,63.4
+4692,Zambia,1998,57.7
+4693,Zambia,1999,55.4
+4694,Zambia,2000,53.2
+4695,Zambia,2001,26.8
+4696,Zambia,2002,24.0
+4697,Zambia,2003,22.9
+4698,Zambia,2004,22.2
+4699,Zambia,2005,20.5
+4700,Zambia,2006,13.3
+4701,Zambia,2007,10.8
+4702,Zambia,2008,6.9
+4703,Zambia,2009,3.9
+4704,Zambia,2010,11.2
+4705,Zambia,2011,9.23
+4706,Zambia,2012,8.8
+4707,Zambia,2013,4.99
+4708,Zambia,2014,4.4
+4710,Zimbabwe,1991,390.0
+4711,Zimbabwe,1993,676.3
+4712,Zimbabwe,1994,907.1
+4713,Zimbabwe,1995,891.2
+4714,Zimbabwe,1996,901.3
+4715,Zimbabwe,1997,1051.3
+4716,Zimbabwe,1998,1249.6
+4717,Zimbabwe,1999,719.5
+4718,Zimbabwe,2000,524.9
+4719,Zimbabwe,2001,836.7
+4720,Zimbabwe,2002,345.8
+4721,Zimbabwe,2003,227.4
+4722,Zimbabwe,2004,303.4
+4723,Zimbabwe,2005,212.3
+4724,Zimbabwe,2006,229.4
+4725,Zimbabwe,2007,92.3
+4726,Zimbabwe,2008,37.3
+4727,Zimbabwe,2009,40.8
+4728,Zimbabwe,2010,29.3
+4729,Zimbabwe,2011,22.22
+4730,Zimbabwe,2012,16.2
+4731,Zimbabwe,2013,15.76
+4732,Zimbabwe,2014,13.32
