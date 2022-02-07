@@ -7,7 +7,7 @@ Countries contribute to and are affected by climate change differently. In this 
 Global climate change is a widely known fact; green house gas emissions and co2 emissions directly contribute to increased global temperatures. What is lesser known is how these inputs per country affect global and local outcomes. The nature of our project is to investigate these affects through mortality rates via air pollution.
 
 ### Data Analyzed
-* ['kahuna.csv'](./data/kahuna.csv): All data from [OurWorldInData](https://ourworldindata.org/charts): each feature taken per country per year from invidual csv files and merged into one. 
+* [kahuna.csv](./data/kahuna.csv): All data from [OurWorldInData](https://ourworldindata.org/charts): each feature taken per country per year from invidual csv files and merged into one. 
 
 Link for Streamlit: https://share.streamlit.io/sara-zhou/project-5/main/code/sz/streamlit.py
 
